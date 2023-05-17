@@ -54,7 +54,25 @@
 	</ItemGroup>
 
 	<ItemGroup>
+	  <MauiXaml Remove="FlyoutPrefs.xaml" />
+	  <MauiXaml Remove="FlyoutPrefsDetail.xaml" />
+	  <MauiXaml Remove="FlyoutPrefsFlyout.xaml" />
+	</ItemGroup>
+
+	<ItemGroup>
 	  <None Remove="Resources\Images\peninsula_map.png" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <EmbeddedResource Include="FlyoutPrefs.xaml">
+	    <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+	  </EmbeddedResource>
+	  <EmbeddedResource Include="FlyoutPrefsDetail.xaml">
+	    <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+	  </EmbeddedResource>
+	  <EmbeddedResource Include="FlyoutPrefsFlyout.xaml">
+	    <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+	  </EmbeddedResource>
 	</ItemGroup>
 
 	<ItemGroup>
