@@ -54,6 +54,7 @@
 	</ItemGroup>
 
 	<ItemGroup>
+	  <None Remove="App.xaml~RF4d2f2ba.TMP" />
 	  <None Remove="Resources\Images\peninsula_map.png" />
 	</ItemGroup>
 
