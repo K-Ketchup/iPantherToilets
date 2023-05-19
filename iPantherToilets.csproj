@@ -54,6 +54,12 @@
 	</ItemGroup>
 
 	<ItemGroup>
+	  <MauiXaml Remove="FlyoutPage1.xaml" />
+	  <MauiXaml Remove="FlyoutPage1Detail.xaml" />
+	  <MauiXaml Remove="FlyoutPage1Flyout.xaml" />
+	</ItemGroup>
+
+	<ItemGroup>
 	  <None Remove="App.xaml~RF4d2f2ba.TMP" />
 	  <None Remove="Resources\Images\peninsula_map.png" />
 	</ItemGroup>
@@ -62,6 +68,24 @@
 		<PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="7.0.0" />
 		<PackageReference Include="Xamarin.Forms" Version="5.0.0.2578" />
 		<PackageReference Include="Xamarin.Forms.Maps" Version="5.0.0.2578" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <EmbeddedResource Update="FlyoutPage1.xaml">
+	    <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+	  </EmbeddedResource>
+	</ItemGroup>
+
+	<ItemGroup>
+	  <EmbeddedResource Update="FlyoutPage1Flyout.xaml">
+	    <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+	  </EmbeddedResource>
+	</ItemGroup>
+
+	<ItemGroup>
+	  <EmbeddedResource Update="FlyoutPage1Detail.xaml">
+	    <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+	  </EmbeddedResource>
 	</ItemGroup>
 
 </Project>
