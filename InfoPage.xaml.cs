@@ -6,4 +6,9 @@ public partial class InfoPage : ContentPage
 	{
 		InitializeComponent();
 	}
+
+    private void ReturnToHomePageButton_Clicked(object sender, EventArgs e)
+    {
+		Navigation.PushModalAsync(new MainPage());
+    }
 }

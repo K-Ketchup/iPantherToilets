@@ -15,8 +15,10 @@
             HorizontalOptions="Center" />
 
         <Button
+            x:Name="ReturnToHomePageButton"
             Text="Return"
             Margin="20"
+            Clicked="ReturnToHomePageButton_Clicked"    
         ></Button>
         
     </VerticalStackLayout>
