@@ -121,12 +121,9 @@
 		<PackageReference Include="System.IO.FileSystem" Version="4.3.0" />
 		<PackageReference Include="System.Net.NameResolution" Version="4.3.0" />
 		<PackageReference Include="System.Runtime.InteropServices" Version="4.3.0" />
-		<PackageReference Include="Xamarin.Forms" Version="5.0.0.2599-pre1" />
-		<PackageReference Include="Xamarin.Forms.Maps" Version="5.0.0.2599-pre1" />
     <PackageReference Include="Microsoft.Extensions.Logging" Version="8.0.0-preview.4.23259.5" />
     <PackageReference Include="Microsoft.Extensions.Logging.Abstractions" Version="8.0.0-preview.4.23259.5" />
     <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="8.0.0-preview.4.23259.5" />
-    <PackageReference Include="Xamarin.Forms.Platform.WPF" Version="5.0.0.2599-pre1" />
 	</ItemGroup>
 
 	<ItemGroup>
@@ -153,4 +150,8 @@
 	  </MauiXaml>
 	</ItemGroup>
 
+  <Target Name="_ValidateMauiDoesNotHaveXamarinForms" BeforeTargets="_CheckForInvalidConfigurationAndPlatform" Condition="'$(MauiDisableXamarinFormsValidation)' != 'True'">
+    <Error Code="MA001" Text="This project or a dependency has imported the Xamarin.Forms packages. .NET MAUI is not compatible with Xamarin.Forms and is unable to build. Please remove Xamarin.Forms or the project/package dependency that is using Xamarin.Forms." Condition="'$(_XFTargetsImported)' == 'true'" />
+  </Target>
+  
 </Project>
