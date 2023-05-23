@@ -45,42 +45,42 @@
 
 	<PropertyGroup Condition="'$(Configuration)|$(TargetFramework)|$(Platform)'=='Debug|net7.0-android|AnyCPU'">
 	  <WarningsAsErrors>NU1605</WarningsAsErrors>
-	  <NoWarn>1701;1702;NETSDK1023</NoWarn>
+	  <NoWarn>1701;1702;NETSDK1</NoWarn>
 	</PropertyGroup>
 
 	<PropertyGroup Condition="'$(Configuration)|$(TargetFramework)|$(Platform)'=='Debug|net7.0-ios|AnyCPU'">
 	  <WarningsAsErrors />
-	  <NoWarn>1701;1702;NETSDK1023</NoWarn>
+	  <NoWarn>1701;1702;NETSDK1</NoWarn>
 	</PropertyGroup>
 
 	<PropertyGroup Condition="'$(Configuration)|$(TargetFramework)|$(Platform)'=='Debug|net7.0-maccatalyst|AnyCPU'">
 	  <WarningsAsErrors />
-	  <NoWarn>1701;1702;NETSDK1023</NoWarn>
+	  <NoWarn>1701;1702;NETSDK1</NoWarn>
 	</PropertyGroup>
 
 	<PropertyGroup Condition="'$(Configuration)|$(TargetFramework)|$(Platform)'=='Debug|net7.0-windows10.0.19041.0|AnyCPU'">
 	  <WarningsAsErrors />
-	  <NoWarn>1701;1702;NETSDK1023</NoWarn>
+	  <NoWarn>1701;1702;NETSDK1</NoWarn>
 	</PropertyGroup>
 
 	<PropertyGroup Condition="'$(Configuration)|$(TargetFramework)|$(Platform)'=='Release|net7.0-android|AnyCPU'">
 	  <WarningsAsErrors>NU1605</WarningsAsErrors>
-	  <NoWarn>1701;1702;NETSDK1023</NoWarn>
+	  <NoWarn>1701;1702;NETSDK1</NoWarn>
 	</PropertyGroup>
 
 	<PropertyGroup Condition="'$(Configuration)|$(TargetFramework)|$(Platform)'=='Release|net7.0-ios|AnyCPU'">
 	  <WarningsAsErrors />
-	  <NoWarn>1701;1702;NETSDK1023</NoWarn>
+	  <NoWarn>1701;1702;NETSDK1</NoWarn>
 	</PropertyGroup>
 
 	<PropertyGroup Condition="'$(Configuration)|$(TargetFramework)|$(Platform)'=='Release|net7.0-maccatalyst|AnyCPU'">
 	  <WarningsAsErrors />
-	  <NoWarn>1701;1702;NETSDK1023</NoWarn>
+	  <NoWarn>1701;1702;NETSDK1</NoWarn>
 	</PropertyGroup>
 
 	<PropertyGroup Condition="'$(Configuration)|$(TargetFramework)|$(Platform)'=='Release|net7.0-windows10.0.19041.0|AnyCPU'">
 	  <WarningsAsErrors />
-	  <NoWarn>1701;1702;NETSDK1023</NoWarn>
+	  <NoWarn>1701;1702;NETSDK1</NoWarn>
 	</PropertyGroup>
 
 	<ItemGroup>
