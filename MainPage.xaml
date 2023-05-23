@@ -16,7 +16,15 @@
                 HeightRequest="500"
                 HorizontalOptions="Fill" 
                 VerticalOptions="Fill"
-                Aspect="AspectFill"  />
+                Aspect="AspectFill"  
+            />
+
+            <Button
+                x:Name="GoToInfoPage"
+                Text="Return"
+                Margin="20"
+                Clicked="GoToInfoPage_Clicked"
+            ></Button>
 
         </VerticalStackLayout>
     </ScrollView>
