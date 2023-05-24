@@ -21,7 +21,7 @@
 
             <Button
                 x:Name="GoToInfoPage"
-                Text="Return"
+                Text="Info Page"
                 Margin="20"
                 Clicked="GoToInfoPage_Clicked"
             ></Button>
