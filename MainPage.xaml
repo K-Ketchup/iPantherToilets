@@ -32,6 +32,7 @@
                 CurrentValue="1"
                 AccentColor="Black"
                 StarSize="36" 
+                VerticalOptions="End"
              />
 
         </VerticalStackLayout>
