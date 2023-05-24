@@ -9,8 +9,7 @@ namespace iPantherToilets.Controls
 {
     internal class SimpleRatingControl : HorizontalStackLayout
     {
-        public static readonly BindableProperty CurrentValueProperty =
-         BindableProperty.Create(
+        public static readonly BindableProperty CurrentValueProperty = BindableProperty.Create(
              nameof(CurrentValue),
              typeof(double),
              typeof(SimpleRatingControl),
