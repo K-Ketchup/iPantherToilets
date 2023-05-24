@@ -19,6 +19,9 @@
             Text="Return"
             Margin="20"
             Clicked="ReturnToHomePageButton_Clicked"    
+            BorderColor="Black"
+            BorderWidth="1"
+            
         ></Button>
         
     </VerticalStackLayout>

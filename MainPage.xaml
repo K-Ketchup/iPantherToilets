@@ -25,6 +25,8 @@
                 Text="Info Page"
                 Margin="20"
                 Clicked="GoToInfoPage_Clicked"
+                BorderColor="Black"
+                BorderWidth="1"
             ></Button>
 
             <controls:SimpleRatingControl 
