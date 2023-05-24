@@ -27,6 +27,7 @@
                 Clicked="GoToInfoPage_Clicked"
                 BorderColor="Black"
                 BorderWidth="1"
+                ImageSource="schnoz2.png"
             ></Button>
 
             <controls:SimpleRatingControl 
@@ -36,6 +37,17 @@
                 StarSize="36" 
                 VerticalOptions="End"
              />
+
+            <Frame
+                BackgroundColor="Yellow"
+                VerticalOptions="Center"
+                HorizontalOptions="Center"
+                HeightRequest="150"
+                Margin="20"
+                BorderColor="Black"
+                IsClippedToBounds="True"
+                CornerRadius="45"
+            />
 
         </VerticalStackLayout>
     </ScrollView>
