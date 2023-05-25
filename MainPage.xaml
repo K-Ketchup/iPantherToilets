@@ -42,12 +42,16 @@
                 BackgroundColor="Yellow"
                 VerticalOptions="Center"
                 HorizontalOptions="Center"
-                HeightRequest="50"
+                HeightRequest="150"
+                WidthRequest="150"
                 Margin="20"
                 BorderColor="Black"
                 IsClippedToBounds="True"
                 CornerRadius="75"
-             />
+               
+                
+
+            ></Frame>
 
         </VerticalStackLayout>
     </ScrollView>
