@@ -18,17 +18,8 @@
                 HorizontalOptions="Fill" 
                 VerticalOptions="Fill"
                 Aspect="AspectFill"  
+                Margin="5"
             />
-
-            <Button
-                x:Name="GoToInfoPage"
-                Text="Info Page"
-                Margin="20"
-                Clicked="GoToInfoPage_Clicked"
-                BorderColor="Black"
-                BorderWidth="1"
-                ImageSource="schnoz2.png"
-            ></Button>
 
             <controls:SimpleRatingControl 
                 Amount="5"
@@ -38,21 +29,20 @@
                 VerticalOptions="End"
              />
 
-            <Frame
-                BackgroundColor="Yellow"
-                VerticalOptions="Center"
-                HorizontalOptions="Center"
-                HeightRequest="150"
-                WidthRequest="150"
-                Margin="20"
+            <ImageButton
+                x:Name="GoToInfoPage"
+                Clicked="GoToInfoPage_Clicked"
                 BorderColor="Black"
-                IsClippedToBounds="True"
-                CornerRadius="75"
-               
-                
-
-            ></Frame>
-
+                BorderWidth="1"
+                Source="schnoz2.png"
+                HorizontalOptions="CenterAndExpand"
+                VerticalOptions="CenterAndExpand"
+                WidthRequest="90"
+                HeightRequest="90"
+                CornerRadius="25"
+                Aspect="AspectFit"
+                Margin="20"/>
+            
         </VerticalStackLayout>
     </ScrollView>
 </ContentPage>
