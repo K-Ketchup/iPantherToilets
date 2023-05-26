@@ -14,7 +14,7 @@
             <Image
                 Source="peninsula_map.png"
                 SemanticProperties.Description="Base map for toilet locations."
-                HeightRequest="500"
+                HeightRequest="550"
                 HorizontalOptions="Fill" 
                 VerticalOptions="Fill"
                 Aspect="AspectFill"  
@@ -37,11 +37,11 @@
                 Source="schnoz2.png"
                 HorizontalOptions="CenterAndExpand"
                 VerticalOptions="CenterAndExpand"
-                WidthRequest="90"
-                HeightRequest="90"
+                WidthRequest="70"
+                HeightRequest="70"
                 CornerRadius="25"
                 Aspect="AspectFit"
-                Margin="20"/>
+                Margin="0"/>
             
         </VerticalStackLayout>
     </ScrollView>

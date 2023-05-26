@@ -21,13 +21,18 @@
             Clicked="ReturnToHomePageButton_Clicked"    
             BorderColor="Black"
             BorderWidth="1"
-            VerticalOptions="End">
-            
+            VerticalOptions="Center"
+            HorizontalOptions="Center">
         </Button>
 
         <Image
-            Source="aaronthirst.png">
-            
+            Source="aaronthirst.png"
+            VerticalOptions="End"
+            HorizontalOptions="Center"
+            Aspect="AspectFit"
+            WidthRequest="500"
+            HeightRequest="700"
+            Margin="-50">
         </Image>    
         
     </VerticalStackLayout>
