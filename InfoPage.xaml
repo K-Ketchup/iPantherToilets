@@ -21,8 +21,14 @@
             Clicked="ReturnToHomePageButton_Clicked"    
             BorderColor="Black"
             BorderWidth="1"
+            VerticalOptions="End">
             
-        ></Button>
+        </Button>
+
+        <Image
+            Source="aaronthirst.png">
+            
+        </Image>    
         
     </VerticalStackLayout>
 </ContentPage>
