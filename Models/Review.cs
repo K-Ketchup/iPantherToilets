@@ -11,9 +11,6 @@ namespace iPantherToilets.Models
     {
         [PrimaryKey, AutoIncrement]
         public int Id { get; set; }
-        [Indexed]
-        public int StockId { get; set; }
-        public DateTime Time { get; set; }
-        public decimal Price { get; set; }
+        public int Stars { get; set; }
     }
 }

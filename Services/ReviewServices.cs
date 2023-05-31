@@ -27,6 +27,10 @@ namespace iPantherToilets.Services
         public static async Task AddReview(int stars)
         {
             await Init();
+            var review = new Review();
+            {
+
+            }
         }
 
         public static async Task RemoveReview(int id)
