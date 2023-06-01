@@ -82,6 +82,10 @@
               "version": "[7.0.86, )",
               "autoReferenced": true
             },
+            "Refractored.MvvmHelpers": {
+              "target": "Package",
+              "version": "[1.6.2, )"
+            },
             "System.IO.FileSystem": {
               "target": "Package",
               "version": "[4.3.0, )"
@@ -213,6 +217,10 @@
               "version": "[7.0.86, )",
               "autoReferenced": true
             },
+            "Refractored.MvvmHelpers": {
+              "target": "Package",
+              "version": "[1.6.2, )"
+            },
             "System.IO.FileSystem": {
               "target": "Package",
               "version": "[4.3.0, )"
@@ -288,6 +296,10 @@
               "target": "Package",
               "version": "[7.0.86, )",
               "autoReferenced": true
+            },
+            "Refractored.MvvmHelpers": {
+              "target": "Package",
+              "version": "[1.6.2, )"
             },
             "System.IO.FileSystem": {
               "target": "Package",
@@ -381,6 +393,10 @@
               "target": "Package",
               "version": "[1.2.221209.1, )",
               "autoReferenced": true
+            },
+            "Refractored.MvvmHelpers": {
+              "target": "Package",
+              "version": "[1.6.2, )"
             },
             "System.IO.FileSystem": {
               "target": "Package",
