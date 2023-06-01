@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="iPantherToilets.InfoPage"
+             Title="InfoPage"
+             BackgroundColor="Yellow">
+
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Add" Command="{Binding AddCommand}"/>
+    </ContentPage.ToolbarItems>
+    
+    <VerticalStackLayout>
+        <Label 
+            Text="Review Page"
+            FontSize="20"
+            FontAttributes="Bold"
+            Margin="20"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" />
+
+        <Button
+            x:Name="ReturnToHomePageButton"
+            Text="Return"
+            Margin="20"
+            Clicked="ReturnToHomePageButton_Clicked"    
+            BorderColor="Black"
+            BorderWidth="1"
+            VerticalOptions="Center"
+            HorizontalOptions="Center">
+        </Button>
+
+        <Image
+            Source="aaronthirst.png"
+            VerticalOptions="End"
+            HorizontalOptions="Center"
+            Aspect="AspectFit"
+            WidthRequest="500"
+            HeightRequest="700"
+            Margin="-50">
+        </Image>    
+        
+    </VerticalStackLayout>
+
+    <ListView
+        IsRefreshing="{Binding IsBusy, Mode=OneWay}"
+        ItemsSource="{Binding Review}"
+        RefreshCommand="{Binding RefreshCommand}"
+        SelectionMode="Single"
+        Style="{StaticResource ReviewListView}"
+        CachingStrategy="RecycleElement">
+        <ListView.Behaviors>
+            <xct:EventToCommandBehavior
+                EventName="ItemSelected"
+                Command="{Binding SelectedCommand}"                
+                EventArgsConverter="{StaticResource ItemSelectedEventArgsConverter}"/>
+        </ListView.Behaviors>
+        <ListView.ItemTemplate>
+            <DataTemplate x:DataType="model:Review">
+                <ViewCell>
+                    <ViewCell.ContextActions>
+                        <MenuItem
+                            Command="{Binding Source={x:Reference MyReviewPage}, Path=BindingContext.RemoveCommand}"
+                            CommandParameter="{Binding .}"
+                            IsDestructive="True"
+                            Text="Delete" />
+                    </ViewCell.ContextActions>
+                    <Grid Padding="10">
+                        <Frame  Style="{StaticResource ReviewCard}">
+                            <StackLayout Orientation="Horizontal">
+                                <Image Source="{Binding Image}" WidthRequest="66" />
+                                <StackLayout VerticalOptions="Center">
+                                    <Label
+                                        Style="{StaticResource LabelLarge}"
+                                        Text="{Binding Name}"
+                                        VerticalOptions="Center" />
+                                    <Label
+                                        Style="{StaticResource LabelLarge}"
+                                        Text="{Binding Roaster}"
+                                        VerticalOptions="Center" />
+                                    <Label
+                                        Style="{StaticResource LabelSmall}"
+                                        Text="{Binding Id}"
+                                        VerticalOptions="Center" />
+                                </StackLayout>
+                            </StackLayout>
+                        </Frame>
+                    </Grid>
+                </ViewCell>
+            </DataTemplate>
+        </ListView.ItemTemplate>
+    </ListView>
+</ContentPage>

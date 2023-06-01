@@ -149,9 +149,13 @@
 	</ItemGroup>
 
 	<ItemGroup>
-	  <MauiXaml Update="InfoPage.xaml">
+	  <MauiXaml Update="View\InfoPage.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
+	</ItemGroup>
+
+	<ItemGroup>
+	  <Folder Include="ViewModel\" />
 	</ItemGroup>
 
   <Target Name="_ValidateMauiDoesNotHaveXamarinForms" BeforeTargets="_CheckForInvalidConfigurationAndPlatform" Condition="'$(MauiDisableXamarinFormsValidation)' != 'True'">
