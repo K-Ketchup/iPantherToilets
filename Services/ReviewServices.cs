@@ -27,20 +27,25 @@ namespace iPantherToilets.Services
         public static async Task AddReview(int stars)
         {
             await Init();
-            var review = new Review();
-            {
 
-            }
+            var review = new Review() { Stars = stars };
+
+            var id = await db.InsertAsync(review);
         }
 
         public static async Task RemoveReview(int id)
         {
             await Init();
+
+            await db.DeleteAsync<Review>(id);
         }
 
-        public static async Task GetReview()
+        public static async Task<IEnumerable<Review>> GetReview()
         {
             await Init();
+
+            var review = await db.Table<Review>().ToListAsync();
+            return review;
         }
 
     }
