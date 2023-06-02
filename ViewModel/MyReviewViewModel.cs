@@ -1,4 +1,5 @@
 ﻿using iPantherToilets.Models;
+using MvvmHelpers;
 using MvvmHelpers.Commands;
 using MyCoffeeApp.ViewModels;
 using System;
