@@ -1,4 +1,4 @@
-namespace iPantherToilets.View;
+namespace iPantherToilets;
 
 public partial class InfoPage : ContentPage
 {

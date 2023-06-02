@@ -260,3 +260,4 @@ C:\Users\yoboi\source\repos\iPantherToilets\iPantherToilets\obj\Debug\net7.0-mac
 C:\Users\yoboi\source\repos\iPantherToilets\iPantherToilets\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\iPantherToilets.pdb
 C:\Users\yoboi\source\repos\iPantherToilets\iPantherToilets\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\iPantherToilets.genruntimeconfig.cache
 C:\Users\yoboi\source\repos\iPantherToilets\iPantherToilets\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\ref\iPantherToilets.dll
+C:\Users\yoboi\source\repos\iPantherToilets\iPantherToilets\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\aaronthirst.png
