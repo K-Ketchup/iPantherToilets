@@ -98,6 +98,10 @@
               "target": "Package",
               "version": "[4.3.0, )"
             },
+            "System.ObjectModel": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
             "System.Runtime.InteropServices": {
               "target": "Package",
               "version": "[4.3.0, )"
@@ -237,6 +241,10 @@
               "target": "Package",
               "version": "[4.3.0, )"
             },
+            "System.ObjectModel": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
             "System.Runtime.InteropServices": {
               "target": "Package",
               "version": "[4.3.0, )"
@@ -318,6 +326,10 @@
               "version": "[4.3.0, )"
             },
             "System.Net.NameResolution": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.ObjectModel": {
               "target": "Package",
               "version": "[4.3.0, )"
             },
@@ -419,6 +431,10 @@
               "version": "[4.3.0, )"
             },
             "System.Net.NameResolution": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.ObjectModel": {
               "target": "Package",
               "version": "[4.3.0, )"
             },

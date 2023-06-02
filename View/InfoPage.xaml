@@ -8,7 +8,7 @@
     <ContentPage.ToolbarItems>
         <ToolbarItem Text="Add" Command="{Binding AddCommand}"/>
     </ContentPage.ToolbarItems>
-    
+
     <VerticalStackLayout>
         <Label 
             Text="Review Page"
@@ -37,56 +37,56 @@
             WidthRequest="500"
             HeightRequest="700"
             Margin="-50">
-        </Image>    
-        
-    </VerticalStackLayout>
+        </Image>
 
-    <ListView
+        <ListView
         IsRefreshing="{Binding IsBusy, Mode=OneWay}"
         ItemsSource="{Binding Review}"
         RefreshCommand="{Binding RefreshCommand}"
         SelectionMode="Single"
         Style="{StaticResource ReviewListView}"
         CachingStrategy="RecycleElement">
-        <ListView.Behaviors>
-            <xct:EventToCommandBehavior
+            <ListView.Behaviors>
+                <xct:EventToCommandBehavior
                 EventName="ItemSelected"
                 Command="{Binding SelectedCommand}"                
                 EventArgsConverter="{StaticResource ItemSelectedEventArgsConverter}"/>
-        </ListView.Behaviors>
-        <ListView.ItemTemplate>
-            <DataTemplate x:DataType="model:Review">
-                <ViewCell>
-                    <ViewCell.ContextActions>
-                        <MenuItem
+            </ListView.Behaviors>
+            <ListView.ItemTemplate>
+                <DataTemplate x:DataType="model:Review">
+                    <ViewCell>
+                        <ViewCell.ContextActions>
+                            <MenuItem
                             Command="{Binding Source={x:Reference MyReviewPage}, Path=BindingContext.RemoveCommand}"
                             CommandParameter="{Binding .}"
                             IsDestructive="True"
                             Text="Delete" />
-                    </ViewCell.ContextActions>
-                    <Grid Padding="10">
-                        <Frame  Style="{StaticResource ReviewCard}">
-                            <StackLayout Orientation="Horizontal">
-                                <Image Source="{Binding Image}" WidthRequest="66" />
-                                <StackLayout VerticalOptions="Center">
-                                    <Label
+                        </ViewCell.ContextActions>
+                        <Grid Padding="10">
+                            <Frame  Style="{StaticResource ReviewCard}">
+                                <StackLayout Orientation="Horizontal">
+                                    <Image Source="{Binding Image}" WidthRequest="66" />
+                                    <StackLayout VerticalOptions="Center">
+                                        <Label
                                         Style="{StaticResource LabelLarge}"
                                         Text="{Binding Name}"
                                         VerticalOptions="Center" />
-                                    <Label
+                                        <Label
                                         Style="{StaticResource LabelLarge}"
                                         Text="{Binding Roaster}"
                                         VerticalOptions="Center" />
-                                    <Label
+                                        <Label
                                         Style="{StaticResource LabelSmall}"
                                         Text="{Binding Id}"
                                         VerticalOptions="Center" />
+                                    </StackLayout>
                                 </StackLayout>
-                            </StackLayout>
-                        </Frame>
-                    </Grid>
-                </ViewCell>
-            </DataTemplate>
-        </ListView.ItemTemplate>
-    </ListView>
+                            </Frame>
+                        </Grid>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+
+    </VerticalStackLayout>
 </ContentPage>

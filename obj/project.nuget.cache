@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "rx/z3FEerNuP5ypvLN2qfudKvI1pAFmARkkmNgDmHKQ7d1rSegqeGfTJjN3ue0ZSqN9PClkKiiWycqmTq3X/4Q==",
+  "dgSpecHash": "aQaGaZVsD11Uzc4OBT3TwMnJDPcnDArvRqLoflAVTDWfM+gimDxaiCzvcuqWAnF7cv1X/DFJmXDpXRhnVESHhg==",
   "success": true,
   "projectFilePath": "C:\\Users\\yoboi\\source\\repos\\iPantherToilets\\iPantherToilets\\iPantherToilets.csproj",
   "expectedPackageFiles": [
@@ -81,6 +81,7 @@
     "C:\\Users\\yoboi\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
     "C:\\Users\\yoboi\\.nuget\\packages\\system.net.nameresolution\\4.3.0\\system.net.nameresolution.4.3.0.nupkg.sha512",
     "C:\\Users\\yoboi\\.nuget\\packages\\system.net.primitives\\4.3.0\\system.net.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\yoboi\\.nuget\\packages\\system.objectmodel\\4.3.0\\system.objectmodel.4.3.0.nupkg.sha512",
     "C:\\Users\\yoboi\\.nuget\\packages\\system.private.uri\\4.3.0\\system.private.uri.4.3.0.nupkg.sha512",
     "C:\\Users\\yoboi\\.nuget\\packages\\system.reflection\\4.3.0\\system.reflection.4.3.0.nupkg.sha512",
     "C:\\Users\\yoboi\\.nuget\\packages\\system.reflection.primitives\\4.3.0\\system.reflection.primitives.4.3.0.nupkg.sha512",
