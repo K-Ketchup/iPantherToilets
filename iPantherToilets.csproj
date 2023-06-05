@@ -102,12 +102,6 @@
 	</ItemGroup>
 
 	<ItemGroup>
-	  <MauiXaml Remove="FlyoutPage1.xaml" />
-	  <MauiXaml Remove="FlyoutPage1Detail.xaml" />
-	  <MauiXaml Remove="FlyoutPage1Flyout.xaml" />
-	</ItemGroup>
-
-	<ItemGroup>
 	  <None Remove="App.xaml~RF4d2f2ba.TMP" />
 	  <None Remove="Resources\Fonts\materialdesignicons-webfont.ttf" />
 	  <None Remove="Resources\Images\aaronthirst.png" />
@@ -131,24 +125,6 @@
     <PackageReference Include="Microsoft.Extensions.Logging" Version="8.0.0-preview.4.23259.5" />
     <PackageReference Include="Microsoft.Extensions.Logging.Abstractions" Version="8.0.0-preview.4.23259.5" />
     <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="8.0.0-preview.4.23259.5" />
-	</ItemGroup>
-
-	<ItemGroup>
-	  <EmbeddedResource Update="FlyoutPage1.xaml">
-	    <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
-	  </EmbeddedResource>
-	</ItemGroup>
-
-	<ItemGroup>
-	  <EmbeddedResource Update="FlyoutPage1Flyout.xaml">
-	    <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
-	  </EmbeddedResource>
-	</ItemGroup>
-
-	<ItemGroup>
-	  <EmbeddedResource Update="FlyoutPage1Detail.xaml">
-	    <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
-	  </EmbeddedResource>
 	</ItemGroup>
 
 	<ItemGroup>
