@@ -31,7 +31,7 @@
 
             <ImageButton
                 x:Name="GoToInfoPage"
-                Clicked="GoToInfoPage_Clicked"
+                Clicked="GoToInfoPageButton_Clicked"
                 BorderColor="Black"
                 BorderWidth="1"
                 Source="schnoz2.png"

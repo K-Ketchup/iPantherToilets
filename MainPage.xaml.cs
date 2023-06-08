@@ -7,7 +7,7 @@ public partial class MainPage : ContentPage
 		InitializeComponent();
     }
 
-    private async void GoToInfoPage_Clicked(object sender, EventArgs e)
+    private async void GoToInfoPageButton_Clicked(object sender, EventArgs e)
     {
         await Navigation.PushModalAsync(new InfoPage());
     }

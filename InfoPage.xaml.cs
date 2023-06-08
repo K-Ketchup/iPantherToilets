@@ -2,10 +2,10 @@ namespace iPantherToilets;
 
 public partial class InfoPage : ContentPage
 {
-    public InfoPage()
-    {
-        InitializeComponent();
-    }
+	public InfoPage()
+	{
+		InitializeComponent();
+	}
 
     private async void ReturnToHomePageButton_Clicked(object sender, EventArgs e)
     {
