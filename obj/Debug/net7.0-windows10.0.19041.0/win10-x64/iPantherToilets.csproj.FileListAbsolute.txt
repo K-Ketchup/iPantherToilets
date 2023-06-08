@@ -325,3 +325,5 @@ C:\Users\yoboi\source\repos\iPantherToilets\iPantherToilets\obj\Debug\net7.0-win
 C:\Users\yoboi\source\repos\iPantherToilets\iPantherToilets\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png
 C:\Users\yoboi\source\repos\iPantherToilets\iPantherToilets\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\peninsula_map.scale-100.png
 C:\Users\yoboi\source\repos\iPantherToilets\iPantherToilets\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\schnoz2.scale-100.png
+C:\Users\yoboi\source\repos\iPantherToilets\iPantherToilets\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\InfoPage.xaml
+C:\Users\yoboi\source\repos\iPantherToilets\iPantherToilets\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\InfoPage.xbf

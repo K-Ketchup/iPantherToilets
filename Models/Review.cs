@@ -11,6 +11,7 @@ namespace iPantherToilets.Models
     {
         [PrimaryKey, AutoIncrement]
         public int Id { get; set; }
-        public int Stars { get; set; }
+        public string Stars { get; set; }
+        public string Username { get; set; }
     }
 }

@@ -1,4 +1,5 @@
 ﻿using iPantherToilets.Models;
+using iPantherToilets.Services;
 using MvvmHelpers;
 using MvvmHelpers.Commands;
 using MyCoffeeApp.ViewModels;
@@ -16,6 +17,45 @@ namespace iPantherToilets.ViewModel
         public AsyncCommand RefreshCommand { get; }
         public AsyncCommand AddCommand { get; }
         public AsyncCommand<Review> RemoveCommand { get; }
+
+        public MyReviewViewModel()
+        {
+            Title = "My Review";
+
+            Review = new ObservableRangeCollection<Review>();
+
+            RefreshCommand = new AsyncCommand(Refresh);
+            AddCommand = new AsyncCommand(Add);
+            RemoveCommand = new AsyncCommand<Review>(Remove);
+        }
+
+        async Task Add()
+        {
+            var username = await App.Current.MainPage.DisplayPromptAsync("Username", "Username for review");
+            var stars = await App.Current.MainPage.DisplayPromptAsync("Stars", "Stars for review", maxLength: 1, keyboard: Keyboard.Numeric);
+            await ReviewServices.AddReview(username, stars);
+            await Refresh();
+        }
+        async Task Remove(Review review)
+        {
+            await ReviewServices.RemoveReview(review.Id);
+            await Refresh();
+        }
+
+        async Task Refresh()
+        {
+            IsBusy = true;
+
+            await Task.Delay(2000);
+
+            Review.Clear();
+
+            var reviews = await ReviewServices.GetReview();
+
+            Review.AddRange(reviews);
+
+            IsBusy = false;
+        }
 
     }
 }

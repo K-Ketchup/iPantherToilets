@@ -112,6 +112,10 @@
   <ItemGroup>
     <EmbeddedResource Remove="**/*.xaml" />
   </ItemGroup>
+
+  <ItemGroup>
+    <MauiXaml Remove="InfoPage.xaml" />
+  </ItemGroup>
   
 	<ItemGroup>
 		<PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="8.0.0-preview.4.23259.5" />
@@ -126,11 +130,11 @@
     <PackageReference Include="Microsoft.Extensions.Logging.Abstractions" Version="8.0.0-preview.4.23259.5" />
     <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="8.0.0-preview.4.23259.5" />
 	</ItemGroup>
-
+  
 	<ItemGroup>
-	  <MauiXaml Update="InfoPage.xaml">
+	  <Page Include="InfoPage.xaml">
 	    <Generator>MSBuild:Compile</Generator>
-	  </MauiXaml>
+	  </Page>
 	</ItemGroup>
 
   <Target Name="_ValidateMauiDoesNotHaveXamarinForms" BeforeTargets="_CheckForInvalidConfigurationAndPlatform" Condition="'$(MauiDisableXamarinFormsValidation)' != 'True'">
