@@ -58,7 +58,7 @@
                     Username="Kensho Nishio"
                     Stars="4"/>
                 <model:Review
-                    Username="Rhys Ota"
+                    Username="Bong Ming Yi"
                     Stars="4.5"/>
             </x:Array>
         </CollectionView.ItemsSource>

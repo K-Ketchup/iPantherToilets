@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "aQaGaZVsD11Uzc4OBT3TwMnJDPcnDArvRqLoflAVTDWfM+gimDxaiCzvcuqWAnF7cv1X/DFJmXDpXRhnVESHhg==",
+  "dgSpecHash": "VMg/RY53a2wr5LBw/20+fQxJexMRyfXHDteIlfOWPVB5Py6T+wW9NUSEE7ehSXmJ9BnMWgTr7pnjUh8aj1PR9g==",
   "success": true,
   "projectFilePath": "C:\\Users\\yoboi\\source\\repos\\iPantherToilets\\iPantherToilets\\iPantherToilets.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\yoboi\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.0\\communitytoolkit.mvvm.8.2.0.nupkg.sha512",
     "C:\\Users\\yoboi\\.nuget\\packages\\googlegson\\2.9.1.1\\googlegson.2.9.1.1.nupkg.sha512",
     "C:\\Users\\yoboi\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
     "C:\\Users\\yoboi\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
