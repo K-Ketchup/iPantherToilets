@@ -2,7 +2,7 @@
 using iPantherToilets.Services;
 using MvvmHelpers;
 using MvvmHelpers.Commands;
-using MyCoffeeApp.ViewModels;
+using iPantherToilets.ViewModel;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -33,7 +33,8 @@ namespace iPantherToilets.ViewModel
         {
             var username = await App.Current.MainPage.DisplayPromptAsync("Username", "Username for review");
             var stars = await App.Current.MainPage.DisplayPromptAsync("Stars", "Stars for review", maxLength: 1, keyboard: Keyboard.Numeric);
-            await ReviewServices.AddReview(username, stars);
+            var text = await App.Current.MainPage.DisplayPromptAsync("Text", "Add text", maxLength: 50);
+            await ReviewServices.AddReview(username, Double.Parse(stars), text);
             await Refresh();
         }
         async Task Remove(Review review)

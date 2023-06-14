@@ -24,11 +24,16 @@ namespace iPantherToilets.Services
             await db.CreateTableAsync<Review>();
         }
 
-        public static async Task AddReview(string username, string stars)
+        public static async Task AddReview(string username, int stars, string text)
         {
             await Init();
 
-            var review = new Review() { Stars = stars, Username = username };
+            var review = new Review() 
+            { 
+                Username = username, 
+                Stars = stars, 
+                Text = text 
+            };
 
             var id = await db.InsertAsync(review);
         }

@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "VMg/RY53a2wr5LBw/20+fQxJexMRyfXHDteIlfOWPVB5Py6T+wW9NUSEE7ehSXmJ9BnMWgTr7pnjUh8aj1PR9g==",
+  "dgSpecHash": "RTFgpiXSwRT4lX9TeKwrsZ0gxwJx1PFb4QQek53/OO07AZL9Xq/eHHgw1y3ZJF/xcqFej2QjxgX5UKbblvXdiw==",
   "success": true,
   "projectFilePath": "C:\\Users\\yoboi\\source\\repos\\iPantherToilets\\iPantherToilets\\iPantherToilets.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\yoboi\\.nuget\\packages\\communitytoolkit.maui\\5.2.0\\communitytoolkit.maui.5.2.0.nupkg.sha512",
+    "C:\\Users\\yoboi\\.nuget\\packages\\communitytoolkit.maui.core\\5.2.0\\communitytoolkit.maui.core.5.2.0.nupkg.sha512",
     "C:\\Users\\yoboi\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.0\\communitytoolkit.mvvm.8.2.0.nupkg.sha512",
     "C:\\Users\\yoboi\\.nuget\\packages\\googlegson\\2.9.1.1\\googlegson.2.9.1.1.nupkg.sha512",
     "C:\\Users\\yoboi\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
@@ -96,6 +98,7 @@
     "C:\\Users\\yoboi\\.nuget\\packages\\system.security.claims\\4.3.0\\system.security.claims.4.3.0.nupkg.sha512",
     "C:\\Users\\yoboi\\.nuget\\packages\\system.security.principal\\4.3.0\\system.security.principal.4.3.0.nupkg.sha512",
     "C:\\Users\\yoboi\\.nuget\\packages\\system.security.principal.windows\\4.3.0\\system.security.principal.windows.4.3.0.nupkg.sha512",
+    "C:\\Users\\yoboi\\.nuget\\packages\\system.speech\\7.0.0\\system.speech.7.0.0.nupkg.sha512",
     "C:\\Users\\yoboi\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
     "C:\\Users\\yoboi\\.nuget\\packages\\system.text.encoding.extensions\\4.3.0\\system.text.encoding.extensions.4.3.0.nupkg.sha512",
     "C:\\Users\\yoboi\\.nuget\\packages\\system.threading\\4.3.0\\system.threading.4.3.0.nupkg.sha512",
