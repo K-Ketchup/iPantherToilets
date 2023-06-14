@@ -4,16 +4,25 @@ using System.ComponentModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using MvvmHelpers;
 using CommunityToolkit.Mvvm;
 using CommunityToolkit.Mvvm.ComponentModel;
 
 namespace iPantherToilets.ViewModel
 {
-    [INotifyPropertyChanged]
-    public partial class BaseViewModel
+    public partial class BaseViewModel : ObservableObject
     {
+        public BaseViewModel() 
+        { 
+        
+        }
+
+        [ObservableProperty]
+        [NotifyPropertyChangedFor(nameof(IsNotBusy))]
         bool isBusy;
+
+        [ObservableProperty]
         string title;
+
+        bool IsNotBusy => !IsBusy;
     }
 }

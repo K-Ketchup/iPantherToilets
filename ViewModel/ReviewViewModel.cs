@@ -11,7 +11,7 @@ using System.Threading.Tasks;
 
 namespace iPantherToilets.ViewModel
 {
-    public class ReviewViewModel : ViewModelBase
+    public class ReviewViewModel : BaseViewModel
     {
         public ObservableRangeCollection<Review> Review { get; set; }
         public AsyncCommand RefreshCommand { get; }
