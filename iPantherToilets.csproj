@@ -133,6 +133,9 @@
 	  <Compile Update="Views\InfoPage.xaml.cs">
 	    <DependentUpon>InfoPage.xaml</DependentUpon>
 	  </Compile>
+	  <Compile Update="Views\AddReviewPage.xaml.cs">
+	    <DependentUpon>AddReviewPage.xaml</DependentUpon>
+	  </Compile>
 	</ItemGroup>
   
 	<ItemGroup>
@@ -141,6 +144,9 @@
 	  </MauiXaml>
 	  <MauiXaml Update="Page1.xaml">
 	    <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+	  </MauiXaml>
+	  <MauiXaml Update="Views\AddReviewPage.xaml">
+	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
 	</ItemGroup>
 
