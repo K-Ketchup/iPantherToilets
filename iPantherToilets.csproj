@@ -130,13 +130,13 @@
 	</ItemGroup>
   
 	<ItemGroup>
-	  <Compile Update="InfoPage.xaml.cs">
+	  <Compile Update="Views\InfoPage.xaml.cs">
 	    <DependentUpon>InfoPage.xaml</DependentUpon>
 	  </Compile>
 	</ItemGroup>
   
 	<ItemGroup>
-	  <MauiXaml Update="InfoPage.xaml">
+	  <MauiXaml Update="Views\InfoPage.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
 	  <MauiXaml Update="Page1.xaml">
