@@ -68,35 +68,50 @@
     <ContentPage.ToolbarItems>
         <ToolbarItem Text="Add" Command="{Binding AddCommand}"/>
     </ContentPage.ToolbarItems>
-    
-    <CollectionView>
-        <CollectionView.ItemsSource>
-            <x:Array Type="{x:Type model:Review}">
-                <model:Review 
-                    Username="Kensho Nishio"
-                    Stars="4"/>
-                <model:Review
-                    Username="Bong Ming Yi"
-                    Stars="4.5"/>
-            </x:Array>
-        </CollectionView.ItemsSource>
-        <CollectionView.ItemTemplate>
+
+    <ListView
+        BackgroundColor="Transparent"
+        CachingStrategy="RecycleElement"
+        HasUnevenRows="True"
+        IsPullToRefreshEnabled="True"
+        IsRefreshing="{Binding IsBusy, Mode=OneWay}"
+        ItemsSource="{Binding Review}"
+        RefreshCommand="{Binding RefreshCommand}"
+        RefreshControlColor="Red"
+        SelectionMode="None"
+        SeparatorVisibility="None">
+        <ListView.ItemTemplate>
             <DataTemplate x:DataType="model:Review">
-                <HorizontalStackLayout Padding="10" Spacing="20">
-                    <Image Source="schnoz2.png"
-                           HeightRequest="100"
-                           WidthRequest="100"
-                           Aspect="AspectFill"/>
-                    <VerticalStackLayout Spacing="10" VerticalOptions="Center">
-                        <Label Text="{Binding Username}"
-                               FontSize="20"
-                               TextColor="White"/>
-                        <Label Text="{Binding Stars}"
-                               FontSize="15"
-                               TextColor="Gold"/>
-                    </VerticalStackLayout>
-                </HorizontalStackLayout>
+                <ViewCell>
+                    <ViewCell.ContextActions>
+                        <MenuItem
+                            Command="{Binding Source={x:Reference InfoPage}, Path=BindingContext.RemoveCommand}"
+                            CommandParameter="{Binding .}"
+                            IsDestructive="True"
+                            Text="Delete"/>
+                    </ViewCell.ContextActions>
+                    <Grid Padding="10">
+                        <Frame CornerRadius="20" HasShadow="True">
+                            <StackLayout Orientation="Horizontal">
+                                <StackLayout VerticalOptions="Center">
+                                    <Label
+                                            FontSize="Large"
+                                            Text="{Binding Username}"
+                                            VerticalOptions="Center"/>
+                                    <Label
+                                            FontSize="Large"
+                                            Text="{Binding Stars}"
+                                            VerticalOptions="Center"/>
+                                    <Label
+                                            FontSize="Small"
+                                            Text="{Binding Id}"
+                                            VerticalOptions="Center"/>
+                                </StackLayout>
+                            </StackLayout>
+                        </Frame>
+                    </Grid>
+                </ViewCell>
             </DataTemplate>
-        </CollectionView.ItemTemplate>
-    </CollectionView>
+        </ListView.ItemTemplate>
+    </ListView>
 </ContentPage>
