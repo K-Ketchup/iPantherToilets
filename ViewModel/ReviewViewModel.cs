@@ -11,14 +11,14 @@ using System.Threading.Tasks;
 
 namespace iPantherToilets.ViewModel
 {
-    public class MyReviewViewModel : ViewModelBase
+    public class ReviewViewModel : ViewModelBase
     {
         public ObservableRangeCollection<Review> Review { get; set; }
         public AsyncCommand RefreshCommand { get; }
         public AsyncCommand AddCommand { get; }
         public AsyncCommand<Review> RemoveCommand { get; }
 
-        public MyReviewViewModel()
+        public ReviewViewModel()
         {
             Title = "My Review";
 
