@@ -18,8 +18,7 @@
                 HorizontalOptions="Fill" 
                 VerticalOptions="Fill"
                 Aspect="AspectFill"  
-                Margin="5"
-            />
+                Margin="5" />
 
             <controls:SimpleRatingControl 
                 Amount="5"

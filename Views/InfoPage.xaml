@@ -7,7 +7,9 @@
              xmlns:xct="http://schemas.microsoft.com/dotnet/2022/maui/toolkit"
              x:DataType="viewmodel:ReviewViewModel"
              x:Class="iPantherToilets.InfoPage"
-             BackgroundColor="Black">
+             BackgroundColor="Transparent"
+             xmlns:android="clr-namespace:Microsoft.Maui.Controls.PlatformConfiguration.AndroidSpecific;assembly=Microsoft.Maui.Controls"
+             android:TabbedPage.IsSmoothScrollEnabled="False">
     
     <!--<ContentPage.ToolbarItems>
         <ToolbarItem Text="Add" Command="{Binding AddCommand}"/>
@@ -68,7 +70,8 @@
         <ToolbarItem Text="Add" Command="{Binding AddCommand}"/>
     </ContentPage.ToolbarItems>
 
-    <ListView
+    <VerticalStackLayout>
+        <ListView
         BackgroundColor="Transparent"
         CachingStrategy="RecycleElement"
         HasUnevenRows="True"
@@ -79,38 +82,49 @@
         RefreshControlColor="Red"
         SelectionMode="None"
         SeparatorVisibility="None">
-        <ListView.ItemTemplate>
-            <DataTemplate x:DataType="model:Review">
-                <ViewCell>
-                    <ViewCell.ContextActions>
-                        <MenuItem
-                            Command="{Binding Source={x:Reference InfoPage}, Path=BindingContext.RemoveCommand}"
-                            CommandParameter="{Binding .}"
-                            IsDestructive="True"
-                            Text="Delete"/>
-                    </ViewCell.ContextActions>
-                    <Grid Padding="10">
-                        <Frame CornerRadius="20" HasShadow="True">
-                            <StackLayout Orientation="Horizontal">
-                                <StackLayout VerticalOptions="Center">
-                                    <Label
-                                        FontSize="Large"
-                                        Text="{Binding Username}"
-                                        VerticalOptions="Center"/>
-                                    <Label
-                                        FontSize="Large"
-                                        Text="{Binding Stars}"
-                                        VerticalOptions="Center"/>
-                                    <Label
-                                        FontSize="Small"
-                                        Text="{Binding Id}"
-                                        VerticalOptions="Center"/>
+            <ListView.ItemTemplate>
+                <DataTemplate x:DataType="model:Review">
+                    <ViewCell>
+                        <ViewCell.ContextActions>
+                            <MenuItem
+                                Command="{Binding Source={x:Reference InfoPage}, Path=BindingContext.RemoveCommand}"
+                                CommandParameter="{Binding .}"
+                                IsDestructive="True"
+                                Text="Delete"/>
+                        </ViewCell.ContextActions>
+                        <Grid Padding="10">
+                            <Frame CornerRadius="20" HasShadow="True">
+                                <StackLayout Orientation="Horizontal">
+                                    <StackLayout VerticalOptions="Center">
+                                        <Label
+                                            FontSize="Large"
+                                            Text="{Binding Username}"
+                                            VerticalOptions="Center"/>
+                                        <Label
+                                            FontSize="Large"
+                                            Text="{Binding Stars}"
+                                            VerticalOptions="Center"/>
+                                        <Label
+                                            FontSize="Small"
+                                            Text="{Binding Id}"
+                                            VerticalOptions="Center"/>
+                                    </StackLayout>
                                 </StackLayout>
-                            </StackLayout>
-                        </Frame>
-                    </Grid>
-                </ViewCell>
-            </DataTemplate>
-        </ListView.ItemTemplate>
-    </ListView>
+                            </Frame>
+                        </Grid>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+
+        <Button
+            x:Name="ReturnToHomePageButton"
+            Clicked="ReturnToHomePageButton_Clicked"
+            BorderColor="Yellow"
+            BorderWidth="1"
+            Text="Back"
+            HeightRequest="50"
+            WidthRequest="70" />
+        
+    </VerticalStackLayout>
 </ContentPage>
