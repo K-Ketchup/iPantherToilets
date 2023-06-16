@@ -4,7 +4,7 @@
              xmlns:model="clr-namespace:iPantherToilets.Models"
              xmlns:viewmodel="clr-namespace:iPantherToilets.ViewModel"
              xmlns:mvvm="clr-namespace:MvvmHelpers;assembly=MvvmHelpers"
-             xmlns:xct="http://schemas.microsoft.com/dotnet/2022/maui/toolkit"
+             xmlns:toolkit="http://schemas.microsoft.com/dotnet/2022/maui/toolkit"
              x:DataType="viewmodel:ReviewViewModel"
              x:Class="iPantherToilets.InfoPage"
              BackgroundColor="Black" >
@@ -60,7 +60,7 @@
 
     <ContentPage.Resources>
         <ResourceDictionary>
-            <xct:SelectedItemEventArgsConverter x:Key="SelectedItemEventArgsConverter"/>
+            <toolkit:SelectedItemEventArgsConverter x:Key="SelectedItemEventArgsConverter"/>
         </ResourceDictionary>
     </ContentPage.Resources>
 
@@ -81,10 +81,10 @@
                     <ViewCell>
                         <ViewCell.ContextActions>
                             <MenuItem
-                                Command="{Binding Source={x:Reference InfoPage}, Path=BindingContext.RemoveCommand}"
+                                Command="{Binding Source={x:Reference ReviewPage}, Path=BindingContext.RemoveCommand}"
                                 CommandParameter="{Binding .}"
                                 IsDestructive="True"
-                                Text="Delete"/>
+                                Text="Delete" />
                         </ViewCell.ContextActions>
                         <Grid Padding="10">
                             <Frame CornerRadius="20" HasShadow="True">
@@ -111,25 +111,29 @@
             </ListView.ItemTemplate>
         </ListView>
 
-        <Button
-            x:Name="ReturnToHomePageButton"
-            Clicked="ReturnToHomePageButton_Clicked"
-            BorderColor="Yellow"
-            BorderWidth="1"
-            Text="Back"
-            HeightRequest="50"
-            WidthRequest="70"
-            VerticalOptions="End"/>
+        <HorizontalStackLayout>
+            <Button
+                x:Name="ReturnToHomePageButton"
+                Clicked="ReturnToHomePageButton_Clicked"
+                BorderColor="Yellow"
+                BorderWidth="1"
+                Text="Back"
+                HeightRequest="50"
+                WidthRequest="70"
+                VerticalOptions="EndAndExpand"
+                HorizontalOptions="Center"/>
 
-        <Button
-            x:Name="AddReviewButton"
-            BorderColor="Yellow"
-            BorderWidth="1"
-            Text="Add"
-            HeightRequest="50"
-            WidthRequest="70"
-            Command="{Binding AddCommand}"
-            VerticalOptions="End"/>
+            <Button
+                x:Name="AddReviewButton"
+                BorderColor="Yellow"
+                BorderWidth="1"
+                Text="Add"
+                HeightRequest="50"
+                WidthRequest="70"
+                Command="{Binding AddCommand}"
+                VerticalOptions="StartAndExpand"/>
+
+        </HorizontalStackLayout>
 
     </VerticalStackLayout>
 </ContentPage>
