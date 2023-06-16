@@ -38,12 +38,6 @@ build_metadata.AdditionalFiles.ManifestResourceName = iPantherToilets.Resources.
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
 
-[C:/Users/yoboi/source/repos/iPantherToilets/iPantherToilets/Views/AddReviewPage.xaml]
-build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = iPantherToilets.Views.AddReviewPage.xaml
-build_metadata.AdditionalFiles.TargetPath = Views\AddReviewPage.xaml
-build_metadata.AdditionalFiles.RelativePath = Views\AddReviewPage.xaml
-
 [C:/Users/yoboi/source/repos/iPantherToilets/iPantherToilets/Views/InfoPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = iPantherToilets.Views.InfoPage.xaml

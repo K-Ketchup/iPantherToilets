@@ -7,7 +7,7 @@
              xmlns:xct="http://schemas.microsoft.com/dotnet/2022/maui/toolkit"
              x:DataType="viewmodel:ReviewViewModel"
              x:Class="iPantherToilets.InfoPage"
-             BackgroundColor="Transparent" >
+             BackgroundColor="Black" >
     
     <!--<ContentPage.ToolbarItems>
         <ToolbarItem Text="Add" Command="{Binding AddCommand}"/>
@@ -64,10 +64,6 @@
         </ResourceDictionary>
     </ContentPage.Resources>
 
-    <ContentPage.ToolbarItems>
-        <ToolbarItem Text="Add" Command="{Binding AddCommand}"/>
-    </ContentPage.ToolbarItems>
-
     <VerticalStackLayout>
         <ListView
         BackgroundColor="Transparent"
@@ -122,16 +118,18 @@
             BorderWidth="1"
             Text="Back"
             HeightRequest="50"
-            WidthRequest="70" />
+            WidthRequest="70"
+            VerticalOptions="End"/>
 
         <Button
-            x:Name="GoToAddReviewPageButton"
-            Clicked="GoToAddReviewPageButton_Clicked"
+            x:Name="AddReviewButton"
             BorderColor="Yellow"
             BorderWidth="1"
-            Text="Go"
+            Text="Add"
             HeightRequest="50"
-            WidthRequest="70" />
+            WidthRequest="70"
+            Command="{Binding AddCommand}"
+            VerticalOptions="End"/>
 
     </VerticalStackLayout>
 </ContentPage>

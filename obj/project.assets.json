@@ -99,10 +99,10 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.DependencyInjection/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.DependencyInjection/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.DependencyInjection.dll": {
@@ -118,7 +118,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.0-preview.5.23280.8": {
         "type": "package",
         "compile": {
           "lib/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
@@ -134,13 +134,13 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Logging/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Logging/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Options": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Options": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Logging.dll": {
@@ -156,7 +156,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Logging.Abstractions/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Logging.Abstractions/8.0.0-preview.5.23280.8": {
         "type": "package",
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Logging.Abstractions.dll": {
@@ -172,12 +172,12 @@
           "buildTransitive/net6.0/Microsoft.Extensions.Logging.Abstractions.targets": {}
         }
       },
-      "Microsoft.Extensions.Logging.Debug/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Logging.Debug/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Logging": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Logging": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Logging.Debug.dll": {
@@ -193,11 +193,11 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Options/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Options/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Primitives": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Primitives": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Options.dll": {
@@ -213,7 +213,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Primitives/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Primitives/8.0.0-preview.5.23280.8": {
         "type": "package",
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Primitives.dll": {
@@ -2274,10 +2274,10 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.DependencyInjection/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.DependencyInjection/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.DependencyInjection.dll": {
@@ -2293,7 +2293,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.0-preview.5.23280.8": {
         "type": "package",
         "compile": {
           "lib/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
@@ -2309,13 +2309,13 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Logging/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Logging/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Options": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Options": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Logging.dll": {
@@ -2331,7 +2331,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Logging.Abstractions/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Logging.Abstractions/8.0.0-preview.5.23280.8": {
         "type": "package",
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Logging.Abstractions.dll": {
@@ -2347,12 +2347,12 @@
           "buildTransitive/net6.0/Microsoft.Extensions.Logging.Abstractions.targets": {}
         }
       },
-      "Microsoft.Extensions.Logging.Debug/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Logging.Debug/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Logging": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Logging": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Logging.Debug.dll": {
@@ -2368,11 +2368,11 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Options/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Options/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Primitives": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Primitives": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Options.dll": {
@@ -2388,7 +2388,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Primitives/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Primitives/8.0.0-preview.5.23280.8": {
         "type": "package",
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Primitives.dll": {
@@ -4439,10 +4439,10 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.DependencyInjection/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.DependencyInjection/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.DependencyInjection.dll": {
@@ -4458,7 +4458,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.0-preview.5.23280.8": {
         "type": "package",
         "compile": {
           "lib/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
@@ -4474,13 +4474,13 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Logging/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Logging/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Options": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Options": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Logging.dll": {
@@ -4496,7 +4496,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Logging.Abstractions/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Logging.Abstractions/8.0.0-preview.5.23280.8": {
         "type": "package",
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Logging.Abstractions.dll": {
@@ -4512,12 +4512,12 @@
           "buildTransitive/net6.0/Microsoft.Extensions.Logging.Abstractions.targets": {}
         }
       },
-      "Microsoft.Extensions.Logging.Debug/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Logging.Debug/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Logging": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Logging": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Logging.Debug.dll": {
@@ -4533,11 +4533,11 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Options/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Options/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Primitives": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Primitives": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Options.dll": {
@@ -4553,7 +4553,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Primitives/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Primitives/8.0.0-preview.5.23280.8": {
         "type": "package",
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Primitives.dll": {
@@ -6604,10 +6604,10 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.DependencyInjection/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.DependencyInjection/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.DependencyInjection.dll": {
@@ -6623,7 +6623,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.0-preview.5.23280.8": {
         "type": "package",
         "compile": {
           "lib/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
@@ -6639,13 +6639,13 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Logging/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Logging/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Options": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Options": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Logging.dll": {
@@ -6661,7 +6661,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Logging.Abstractions/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Logging.Abstractions/8.0.0-preview.5.23280.8": {
         "type": "package",
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Logging.Abstractions.dll": {
@@ -6677,12 +6677,12 @@
           "buildTransitive/net6.0/Microsoft.Extensions.Logging.Abstractions.targets": {}
         }
       },
-      "Microsoft.Extensions.Logging.Debug/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Logging.Debug/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Logging": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Logging": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Logging.Debug.dll": {
@@ -6698,11 +6698,11 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Options/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Options/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Primitives": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Primitives": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Options.dll": {
@@ -6718,7 +6718,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Primitives/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Primitives/8.0.0-preview.5.23280.8": {
         "type": "package",
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Primitives.dll": {
@@ -8769,10 +8769,10 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.DependencyInjection/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.DependencyInjection/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.DependencyInjection.dll": {
@@ -8788,7 +8788,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.0-preview.5.23280.8": {
         "type": "package",
         "compile": {
           "lib/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
@@ -8804,13 +8804,13 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Logging/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Logging/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Options": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Options": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Logging.dll": {
@@ -8826,7 +8826,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Logging.Abstractions/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Logging.Abstractions/8.0.0-preview.5.23280.8": {
         "type": "package",
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Logging.Abstractions.dll": {
@@ -8842,12 +8842,12 @@
           "buildTransitive/net6.0/Microsoft.Extensions.Logging.Abstractions.targets": {}
         }
       },
-      "Microsoft.Extensions.Logging.Debug/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Logging.Debug/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Logging": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Logging": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Logging.Debug.dll": {
@@ -8863,11 +8863,11 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Options/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Options/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Primitives": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Primitives": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Options.dll": {
@@ -8883,7 +8883,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Primitives/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Primitives/8.0.0-preview.5.23280.8": {
         "type": "package",
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Primitives.dll": {
@@ -10934,10 +10934,10 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.DependencyInjection/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.DependencyInjection/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.DependencyInjection.dll": {
@@ -10953,7 +10953,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.0-preview.5.23280.8": {
         "type": "package",
         "compile": {
           "lib/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
@@ -10969,13 +10969,13 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Logging/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Logging/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Options": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Options": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Logging.dll": {
@@ -10991,7 +10991,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Logging.Abstractions/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Logging.Abstractions/8.0.0-preview.5.23280.8": {
         "type": "package",
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Logging.Abstractions.dll": {
@@ -11007,12 +11007,12 @@
           "buildTransitive/net6.0/Microsoft.Extensions.Logging.Abstractions.targets": {}
         }
       },
-      "Microsoft.Extensions.Logging.Debug/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Logging.Debug/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Logging": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Logging": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Logging.Debug.dll": {
@@ -11028,11 +11028,11 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Options/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Options/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Primitives": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Primitives": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Options.dll": {
@@ -11048,7 +11048,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Primitives/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Primitives/8.0.0-preview.5.23280.8": {
         "type": "package",
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Primitives.dll": {
@@ -13099,10 +13099,10 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.DependencyInjection/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.DependencyInjection/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.DependencyInjection.dll": {
@@ -13118,7 +13118,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.0-preview.5.23280.8": {
         "type": "package",
         "compile": {
           "lib/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
@@ -13134,13 +13134,13 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Logging/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Logging/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Options": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Options": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Logging.dll": {
@@ -13156,7 +13156,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Logging.Abstractions/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Logging.Abstractions/8.0.0-preview.5.23280.8": {
         "type": "package",
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Logging.Abstractions.dll": {
@@ -13172,12 +13172,12 @@
           "buildTransitive/net6.0/Microsoft.Extensions.Logging.Abstractions.targets": {}
         }
       },
-      "Microsoft.Extensions.Logging.Debug/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Logging.Debug/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Logging": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Logging": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Logging.Debug.dll": {
@@ -13193,11 +13193,11 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Options/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Options/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Primitives": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Primitives": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Options.dll": {
@@ -13213,7 +13213,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Primitives/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Primitives/8.0.0-preview.5.23280.8": {
         "type": "package",
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Primitives.dll": {
@@ -15264,10 +15264,10 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.DependencyInjection/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.DependencyInjection/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.DependencyInjection.dll": {
@@ -15283,7 +15283,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.0-preview.5.23280.8": {
         "type": "package",
         "compile": {
           "lib/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
@@ -15299,13 +15299,13 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Logging/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Logging/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Options": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Options": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Logging.dll": {
@@ -15321,7 +15321,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Logging.Abstractions/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Logging.Abstractions/8.0.0-preview.5.23280.8": {
         "type": "package",
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Logging.Abstractions.dll": {
@@ -15337,12 +15337,12 @@
           "buildTransitive/net6.0/Microsoft.Extensions.Logging.Abstractions.targets": {}
         }
       },
-      "Microsoft.Extensions.Logging.Debug/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Logging.Debug/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Logging": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Logging": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Logging.Debug.dll": {
@@ -15358,11 +15358,11 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Options/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Options/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Primitives": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Primitives": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Options.dll": {
@@ -15378,7 +15378,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Primitives/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Primitives/8.0.0-preview.5.23280.8": {
         "type": "package",
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Primitives.dll": {
@@ -17416,10 +17416,10 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.DependencyInjection/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.DependencyInjection/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.DependencyInjection.dll": {
@@ -17435,7 +17435,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.0-preview.5.23280.8": {
         "type": "package",
         "compile": {
           "lib/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
@@ -17451,13 +17451,13 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Logging/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Logging/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Options": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Options": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Logging.dll": {
@@ -17473,7 +17473,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Logging.Abstractions/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Logging.Abstractions/8.0.0-preview.5.23280.8": {
         "type": "package",
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Logging.Abstractions.dll": {
@@ -17489,12 +17489,12 @@
           "buildTransitive/net6.0/Microsoft.Extensions.Logging.Abstractions.targets": {}
         }
       },
-      "Microsoft.Extensions.Logging.Debug/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Logging.Debug/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Logging": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Logging": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Logging.Debug.dll": {
@@ -17510,11 +17510,11 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Options/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Options/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Primitives": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Primitives": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Options.dll": {
@@ -17530,7 +17530,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Primitives/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Primitives/8.0.0-preview.5.23280.8": {
         "type": "package",
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Primitives.dll": {
@@ -18182,10 +18182,10 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.DependencyInjection/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.DependencyInjection/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.DependencyInjection.dll": {
@@ -18201,7 +18201,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.0-preview.5.23280.8": {
         "type": "package",
         "compile": {
           "lib/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
@@ -18217,13 +18217,13 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Logging/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Logging/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Options": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Options": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Logging.dll": {
@@ -18239,7 +18239,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Logging.Abstractions/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Logging.Abstractions/8.0.0-preview.5.23280.8": {
         "type": "package",
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Logging.Abstractions.dll": {
@@ -18255,12 +18255,12 @@
           "buildTransitive/net6.0/Microsoft.Extensions.Logging.Abstractions.targets": {}
         }
       },
-      "Microsoft.Extensions.Logging.Debug/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Logging.Debug/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Logging": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Logging": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Logging.Debug.dll": {
@@ -18276,11 +18276,11 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Options/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Options/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Primitives": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Primitives": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Options.dll": {
@@ -18296,7 +18296,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Primitives/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Primitives/8.0.0-preview.5.23280.8": {
         "type": "package",
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Primitives.dll": {
@@ -19267,10 +19267,10 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.DependencyInjection/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.DependencyInjection/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.DependencyInjection.dll": {
@@ -19286,7 +19286,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.0-preview.5.23280.8": {
         "type": "package",
         "compile": {
           "lib/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
@@ -19302,13 +19302,13 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Logging/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Logging/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Options": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Options": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Logging.dll": {
@@ -19324,7 +19324,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Logging.Abstractions/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Logging.Abstractions/8.0.0-preview.5.23280.8": {
         "type": "package",
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Logging.Abstractions.dll": {
@@ -19340,12 +19340,12 @@
           "buildTransitive/net6.0/Microsoft.Extensions.Logging.Abstractions.targets": {}
         }
       },
-      "Microsoft.Extensions.Logging.Debug/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Logging.Debug/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Logging": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Logging": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Logging.Debug.dll": {
@@ -19361,11 +19361,11 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Options/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Options/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Primitives": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Primitives": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Options.dll": {
@@ -19381,7 +19381,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Primitives/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Primitives/8.0.0-preview.5.23280.8": {
         "type": "package",
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Primitives.dll": {
@@ -20352,10 +20352,10 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.DependencyInjection/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.DependencyInjection/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.DependencyInjection.dll": {
@@ -20371,7 +20371,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.0-preview.5.23280.8": {
         "type": "package",
         "compile": {
           "lib/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
@@ -20387,13 +20387,13 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Logging/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Logging/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Options": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Options": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Logging.dll": {
@@ -20409,7 +20409,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Logging.Abstractions/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Logging.Abstractions/8.0.0-preview.5.23280.8": {
         "type": "package",
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Logging.Abstractions.dll": {
@@ -20425,12 +20425,12 @@
           "buildTransitive/net6.0/Microsoft.Extensions.Logging.Abstractions.targets": {}
         }
       },
-      "Microsoft.Extensions.Logging.Debug/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Logging.Debug/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Logging": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Logging": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Logging.Debug.dll": {
@@ -20446,11 +20446,11 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Options/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Options/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Primitives": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Primitives": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Options.dll": {
@@ -20466,7 +20466,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Primitives/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Primitives/8.0.0-preview.5.23280.8": {
         "type": "package",
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Primitives.dll": {
@@ -21437,10 +21437,10 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.DependencyInjection/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.DependencyInjection/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.DependencyInjection.dll": {
@@ -21456,7 +21456,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.0-preview.5.23280.8": {
         "type": "package",
         "compile": {
           "lib/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
@@ -21472,13 +21472,13 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Logging/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Logging/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Options": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Options": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Logging.dll": {
@@ -21494,7 +21494,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Logging.Abstractions/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Logging.Abstractions/8.0.0-preview.5.23280.8": {
         "type": "package",
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Logging.Abstractions.dll": {
@@ -21510,12 +21510,12 @@
           "buildTransitive/net6.0/Microsoft.Extensions.Logging.Abstractions.targets": {}
         }
       },
-      "Microsoft.Extensions.Logging.Debug/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Logging.Debug/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Logging": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Logging": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Logging.Debug.dll": {
@@ -21531,11 +21531,11 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Options/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Options/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Primitives": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Primitives": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Options.dll": {
@@ -21551,7 +21551,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Primitives/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Primitives/8.0.0-preview.5.23280.8": {
         "type": "package",
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Primitives.dll": {
@@ -22522,10 +22522,10 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.DependencyInjection/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.DependencyInjection/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.DependencyInjection.dll": {
@@ -22541,7 +22541,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.0-preview.5.23280.8": {
         "type": "package",
         "compile": {
           "lib/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
@@ -22557,13 +22557,13 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Logging/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Logging/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Options": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Options": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Logging.dll": {
@@ -22579,7 +22579,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Logging.Abstractions/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Logging.Abstractions/8.0.0-preview.5.23280.8": {
         "type": "package",
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Logging.Abstractions.dll": {
@@ -22595,12 +22595,12 @@
           "buildTransitive/net6.0/Microsoft.Extensions.Logging.Abstractions.targets": {}
         }
       },
-      "Microsoft.Extensions.Logging.Debug/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Logging.Debug/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Logging": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Logging": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Logging.Debug.dll": {
@@ -22616,11 +22616,11 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Options/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Options/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Primitives": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Primitives": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Options.dll": {
@@ -22636,7 +22636,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Primitives/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Primitives/8.0.0-preview.5.23280.8": {
         "type": "package",
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Primitives.dll": {
@@ -23607,10 +23607,10 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.DependencyInjection/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.DependencyInjection/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.DependencyInjection.dll": {
@@ -23626,7 +23626,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.0-preview.5.23280.8": {
         "type": "package",
         "compile": {
           "lib/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
@@ -23642,13 +23642,13 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Logging/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Logging/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Options": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Options": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Logging.dll": {
@@ -23664,7 +23664,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Logging.Abstractions/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Logging.Abstractions/8.0.0-preview.5.23280.8": {
         "type": "package",
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Logging.Abstractions.dll": {
@@ -23680,12 +23680,12 @@
           "buildTransitive/net6.0/Microsoft.Extensions.Logging.Abstractions.targets": {}
         }
       },
-      "Microsoft.Extensions.Logging.Debug/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Logging.Debug/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Logging": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Logging": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Logging.Debug.dll": {
@@ -23701,11 +23701,11 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Options/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Options/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Primitives": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Primitives": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Options.dll": {
@@ -23721,7 +23721,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Primitives/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Primitives/8.0.0-preview.5.23280.8": {
         "type": "package",
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Primitives.dll": {
@@ -24692,10 +24692,10 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.DependencyInjection/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.DependencyInjection/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.DependencyInjection.dll": {
@@ -24711,7 +24711,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.0-preview.5.23280.8": {
         "type": "package",
         "compile": {
           "lib/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
@@ -24727,13 +24727,13 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Logging/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Logging/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Options": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Options": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Logging.dll": {
@@ -24749,7 +24749,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Logging.Abstractions/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Logging.Abstractions/8.0.0-preview.5.23280.8": {
         "type": "package",
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Logging.Abstractions.dll": {
@@ -24765,12 +24765,12 @@
           "buildTransitive/net6.0/Microsoft.Extensions.Logging.Abstractions.targets": {}
         }
       },
-      "Microsoft.Extensions.Logging.Debug/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Logging.Debug/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Logging": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Logging": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Logging.Debug.dll": {
@@ -24786,11 +24786,11 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Options/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Options/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Primitives": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Primitives": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Options.dll": {
@@ -24806,7 +24806,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Primitives/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Primitives/8.0.0-preview.5.23280.8": {
         "type": "package",
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Primitives.dll": {
@@ -25733,10 +25733,10 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.DependencyInjection/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.DependencyInjection/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.DependencyInjection.dll": {
@@ -25752,7 +25752,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.0-preview.5.23280.8": {
         "type": "package",
         "compile": {
           "lib/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
@@ -25768,13 +25768,13 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Logging/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Logging/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Options": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Options": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Logging.dll": {
@@ -25790,7 +25790,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Logging.Abstractions/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Logging.Abstractions/8.0.0-preview.5.23280.8": {
         "type": "package",
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Logging.Abstractions.dll": {
@@ -25806,12 +25806,12 @@
           "buildTransitive/net6.0/Microsoft.Extensions.Logging.Abstractions.targets": {}
         }
       },
-      "Microsoft.Extensions.Logging.Debug/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Logging.Debug/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Logging": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Logging": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Logging.Debug.dll": {
@@ -25827,11 +25827,11 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Options/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Options/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Primitives": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Primitives": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Options.dll": {
@@ -25847,7 +25847,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Primitives/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Primitives/8.0.0-preview.5.23280.8": {
         "type": "package",
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Primitives.dll": {
@@ -26593,10 +26593,10 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.DependencyInjection/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.DependencyInjection/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.DependencyInjection.dll": {
@@ -26612,7 +26612,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.0-preview.5.23280.8": {
         "type": "package",
         "compile": {
           "lib/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
@@ -26628,13 +26628,13 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Logging/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Logging/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Options": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Options": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Logging.dll": {
@@ -26650,7 +26650,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Logging.Abstractions/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Logging.Abstractions/8.0.0-preview.5.23280.8": {
         "type": "package",
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Logging.Abstractions.dll": {
@@ -26666,12 +26666,12 @@
           "buildTransitive/net6.0/Microsoft.Extensions.Logging.Abstractions.targets": {}
         }
       },
-      "Microsoft.Extensions.Logging.Debug/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Logging.Debug/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Logging": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Logging": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Logging.Debug.dll": {
@@ -26687,11 +26687,11 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Options/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Options/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Primitives": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Primitives": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Options.dll": {
@@ -26707,7 +26707,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Primitives/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Primitives/8.0.0-preview.5.23280.8": {
         "type": "package",
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Primitives.dll": {
@@ -27685,10 +27685,10 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.DependencyInjection/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.DependencyInjection/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.DependencyInjection.dll": {
@@ -27704,7 +27704,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.0-preview.5.23280.8": {
         "type": "package",
         "compile": {
           "lib/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
@@ -27720,13 +27720,13 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Logging/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Logging/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Options": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Options": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Logging.dll": {
@@ -27742,7 +27742,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Logging.Abstractions/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Logging.Abstractions/8.0.0-preview.5.23280.8": {
         "type": "package",
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Logging.Abstractions.dll": {
@@ -27758,12 +27758,12 @@
           "buildTransitive/net6.0/Microsoft.Extensions.Logging.Abstractions.targets": {}
         }
       },
-      "Microsoft.Extensions.Logging.Debug/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Logging.Debug/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Logging": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Logging": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Logging.Debug.dll": {
@@ -27779,11 +27779,11 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Options/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Options/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Primitives": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Primitives": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Options.dll": {
@@ -27799,7 +27799,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Primitives/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Primitives/8.0.0-preview.5.23280.8": {
         "type": "package",
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Primitives.dll": {
@@ -28777,10 +28777,10 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.DependencyInjection/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.DependencyInjection/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.DependencyInjection.dll": {
@@ -28796,7 +28796,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.0-preview.5.23280.8": {
         "type": "package",
         "compile": {
           "lib/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
@@ -28812,13 +28812,13 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Logging/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Logging/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Options": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Options": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Logging.dll": {
@@ -28834,7 +28834,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Logging.Abstractions/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Logging.Abstractions/8.0.0-preview.5.23280.8": {
         "type": "package",
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Logging.Abstractions.dll": {
@@ -28850,12 +28850,12 @@
           "buildTransitive/net6.0/Microsoft.Extensions.Logging.Abstractions.targets": {}
         }
       },
-      "Microsoft.Extensions.Logging.Debug/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Logging.Debug/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Logging": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Logging": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Logging.Debug.dll": {
@@ -28871,11 +28871,11 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Options/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Options/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Primitives": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Primitives": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Options.dll": {
@@ -28891,7 +28891,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Primitives/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Primitives/8.0.0-preview.5.23280.8": {
         "type": "package",
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Primitives.dll": {
@@ -29869,10 +29869,10 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.DependencyInjection/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.DependencyInjection/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.DependencyInjection.dll": {
@@ -29888,7 +29888,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.0-preview.5.23280.8": {
         "type": "package",
         "compile": {
           "lib/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
@@ -29904,13 +29904,13 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Logging/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Logging/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Options": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Options": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Logging.dll": {
@@ -29926,7 +29926,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Logging.Abstractions/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Logging.Abstractions/8.0.0-preview.5.23280.8": {
         "type": "package",
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Logging.Abstractions.dll": {
@@ -29942,12 +29942,12 @@
           "buildTransitive/net6.0/Microsoft.Extensions.Logging.Abstractions.targets": {}
         }
       },
-      "Microsoft.Extensions.Logging.Debug/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Logging.Debug/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Logging": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Logging": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Logging.Debug.dll": {
@@ -29963,11 +29963,11 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Options/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Options/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Primitives": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Primitives": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Options.dll": {
@@ -29983,7 +29983,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Primitives/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Primitives/8.0.0-preview.5.23280.8": {
         "type": "package",
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Primitives.dll": {
@@ -30961,10 +30961,10 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.DependencyInjection/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.DependencyInjection/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.DependencyInjection.dll": {
@@ -30980,7 +30980,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.0-preview.5.23280.8": {
         "type": "package",
         "compile": {
           "lib/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
@@ -30996,13 +30996,13 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Logging/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Logging/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Options": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Options": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Logging.dll": {
@@ -31018,7 +31018,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Logging.Abstractions/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Logging.Abstractions/8.0.0-preview.5.23280.8": {
         "type": "package",
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Logging.Abstractions.dll": {
@@ -31034,12 +31034,12 @@
           "buildTransitive/net6.0/Microsoft.Extensions.Logging.Abstractions.targets": {}
         }
       },
-      "Microsoft.Extensions.Logging.Debug/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Logging.Debug/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Logging": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Logging": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Logging.Debug.dll": {
@@ -31055,11 +31055,11 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Options/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Options/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Primitives": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Primitives": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Options.dll": {
@@ -31075,7 +31075,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Primitives/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Primitives/8.0.0-preview.5.23280.8": {
         "type": "package",
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Primitives.dll": {
@@ -32050,10 +32050,10 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.DependencyInjection/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.DependencyInjection/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.DependencyInjection.dll": {
@@ -32069,7 +32069,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.0-preview.5.23280.8": {
         "type": "package",
         "compile": {
           "lib/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
@@ -32085,13 +32085,13 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Logging/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Logging/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Options": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Options": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Logging.dll": {
@@ -32107,7 +32107,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Logging.Abstractions/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Logging.Abstractions/8.0.0-preview.5.23280.8": {
         "type": "package",
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Logging.Abstractions.dll": {
@@ -32123,12 +32123,12 @@
           "buildTransitive/net6.0/Microsoft.Extensions.Logging.Abstractions.targets": {}
         }
       },
-      "Microsoft.Extensions.Logging.Debug/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Logging.Debug/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Logging": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Logging": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Logging.Debug.dll": {
@@ -32144,11 +32144,11 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Options/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Options/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Primitives": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Primitives": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Options.dll": {
@@ -32164,7 +32164,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Primitives/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Primitives/8.0.0-preview.5.23280.8": {
         "type": "package",
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Primitives.dll": {
@@ -33142,10 +33142,10 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.DependencyInjection/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.DependencyInjection/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.DependencyInjection.dll": {
@@ -33161,7 +33161,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.0-preview.5.23280.8": {
         "type": "package",
         "compile": {
           "lib/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
@@ -33177,13 +33177,13 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Logging/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Logging/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Options": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Options": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Logging.dll": {
@@ -33199,7 +33199,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Logging.Abstractions/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Logging.Abstractions/8.0.0-preview.5.23280.8": {
         "type": "package",
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Logging.Abstractions.dll": {
@@ -33215,12 +33215,12 @@
           "buildTransitive/net6.0/Microsoft.Extensions.Logging.Abstractions.targets": {}
         }
       },
-      "Microsoft.Extensions.Logging.Debug/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Logging.Debug/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Logging": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Logging": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Logging.Debug.dll": {
@@ -33236,11 +33236,11 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Options/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Options/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Primitives": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Primitives": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Options.dll": {
@@ -33256,7 +33256,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Primitives/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Primitives/8.0.0-preview.5.23280.8": {
         "type": "package",
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Primitives.dll": {
@@ -34193,10 +34193,10 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.DependencyInjection/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.DependencyInjection/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.DependencyInjection.dll": {
@@ -34212,7 +34212,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.0-preview.5.23280.8": {
         "type": "package",
         "compile": {
           "lib/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
@@ -34228,13 +34228,13 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Logging/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Logging/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Options": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Options": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Logging.dll": {
@@ -34250,7 +34250,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Logging.Abstractions/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Logging.Abstractions/8.0.0-preview.5.23280.8": {
         "type": "package",
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Logging.Abstractions.dll": {
@@ -34266,12 +34266,12 @@
           "buildTransitive/net6.0/Microsoft.Extensions.Logging.Abstractions.targets": {}
         }
       },
-      "Microsoft.Extensions.Logging.Debug/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Logging.Debug/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Logging": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Logging": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Logging.Debug.dll": {
@@ -34287,11 +34287,11 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Options/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Options/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Primitives": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Primitives": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Options.dll": {
@@ -34307,7 +34307,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Primitives/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Primitives/8.0.0-preview.5.23280.8": {
         "type": "package",
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Primitives.dll": {
@@ -35216,10 +35216,10 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.DependencyInjection/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.DependencyInjection/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.DependencyInjection.dll": {
@@ -35235,7 +35235,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.0-preview.5.23280.8": {
         "type": "package",
         "compile": {
           "lib/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
@@ -35251,13 +35251,13 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Logging/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Logging/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Options": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Options": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Logging.dll": {
@@ -35273,7 +35273,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Logging.Abstractions/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Logging.Abstractions/8.0.0-preview.5.23280.8": {
         "type": "package",
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Logging.Abstractions.dll": {
@@ -35289,12 +35289,12 @@
           "buildTransitive/net6.0/Microsoft.Extensions.Logging.Abstractions.targets": {}
         }
       },
-      "Microsoft.Extensions.Logging.Debug/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Logging.Debug/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Logging": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Logging": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Logging.Debug.dll": {
@@ -35310,11 +35310,11 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Options/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Options/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Primitives": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Primitives": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Options.dll": {
@@ -35330,7 +35330,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Primitives/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Primitives/8.0.0-preview.5.23280.8": {
         "type": "package",
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Primitives.dll": {
@@ -36437,10 +36437,10 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.DependencyInjection/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.DependencyInjection/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.DependencyInjection.dll": {
@@ -36456,7 +36456,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.0-preview.5.23280.8": {
         "type": "package",
         "compile": {
           "lib/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
@@ -36472,13 +36472,13 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Logging/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Logging/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Options": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Options": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Logging.dll": {
@@ -36494,7 +36494,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Logging.Abstractions/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Logging.Abstractions/8.0.0-preview.5.23280.8": {
         "type": "package",
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Logging.Abstractions.dll": {
@@ -36510,12 +36510,12 @@
           "buildTransitive/net6.0/Microsoft.Extensions.Logging.Abstractions.targets": {}
         }
       },
-      "Microsoft.Extensions.Logging.Debug/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Logging.Debug/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Logging": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Logging": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Logging.Debug.dll": {
@@ -36531,11 +36531,11 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Options/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Options/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Primitives": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Primitives": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Options.dll": {
@@ -36551,7 +36551,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Primitives/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Primitives/8.0.0-preview.5.23280.8": {
         "type": "package",
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Primitives.dll": {
@@ -37658,10 +37658,10 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.DependencyInjection/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.DependencyInjection/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.DependencyInjection.dll": {
@@ -37677,7 +37677,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.0-preview.5.23280.8": {
         "type": "package",
         "compile": {
           "lib/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
@@ -37693,13 +37693,13 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Logging/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Logging/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Options": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Options": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Logging.dll": {
@@ -37715,7 +37715,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Logging.Abstractions/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Logging.Abstractions/8.0.0-preview.5.23280.8": {
         "type": "package",
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Logging.Abstractions.dll": {
@@ -37731,12 +37731,12 @@
           "buildTransitive/net6.0/Microsoft.Extensions.Logging.Abstractions.targets": {}
         }
       },
-      "Microsoft.Extensions.Logging.Debug/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Logging.Debug/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Logging": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Logging": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Logging.Debug.dll": {
@@ -37752,11 +37752,11 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Options/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Options/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Primitives": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Primitives": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Options.dll": {
@@ -37772,7 +37772,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Primitives/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Primitives/8.0.0-preview.5.23280.8": {
         "type": "package",
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Primitives.dll": {
@@ -38879,10 +38879,10 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.DependencyInjection/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.DependencyInjection/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.DependencyInjection.dll": {
@@ -38898,7 +38898,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.0-preview.5.23280.8": {
         "type": "package",
         "compile": {
           "lib/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
@@ -38914,13 +38914,13 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Logging/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Logging/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Options": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Options": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Logging.dll": {
@@ -38936,7 +38936,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Logging.Abstractions/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Logging.Abstractions/8.0.0-preview.5.23280.8": {
         "type": "package",
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Logging.Abstractions.dll": {
@@ -38952,12 +38952,12 @@
           "buildTransitive/net6.0/Microsoft.Extensions.Logging.Abstractions.targets": {}
         }
       },
-      "Microsoft.Extensions.Logging.Debug/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Logging.Debug/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Logging": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Logging": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Logging.Debug.dll": {
@@ -38973,11 +38973,11 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Options/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Options/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Primitives": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Primitives": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Options.dll": {
@@ -38993,7 +38993,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Primitives/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Primitives/8.0.0-preview.5.23280.8": {
         "type": "package",
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Primitives.dll": {
@@ -40100,10 +40100,10 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.DependencyInjection/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.DependencyInjection/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.DependencyInjection.dll": {
@@ -40119,7 +40119,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.0-preview.5.23280.8": {
         "type": "package",
         "compile": {
           "lib/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
@@ -40135,13 +40135,13 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Logging/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Logging/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Options": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Options": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Logging.dll": {
@@ -40157,7 +40157,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Logging.Abstractions/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Logging.Abstractions/8.0.0-preview.5.23280.8": {
         "type": "package",
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Logging.Abstractions.dll": {
@@ -40173,12 +40173,12 @@
           "buildTransitive/net6.0/Microsoft.Extensions.Logging.Abstractions.targets": {}
         }
       },
-      "Microsoft.Extensions.Logging.Debug/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Logging.Debug/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Logging": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Logging": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Logging.Debug.dll": {
@@ -40194,11 +40194,11 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Options/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Options/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Primitives": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Primitives": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Options.dll": {
@@ -40214,7 +40214,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Primitives/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Primitives/8.0.0-preview.5.23280.8": {
         "type": "package",
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Primitives.dll": {
@@ -41318,10 +41318,10 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.DependencyInjection/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.DependencyInjection/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.DependencyInjection.dll": {
@@ -41337,7 +41337,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.0-preview.5.23280.8": {
         "type": "package",
         "compile": {
           "lib/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
@@ -41353,13 +41353,13 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Logging/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Logging/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Options": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Options": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Logging.dll": {
@@ -41375,7 +41375,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Logging.Abstractions/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Logging.Abstractions/8.0.0-preview.5.23280.8": {
         "type": "package",
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Logging.Abstractions.dll": {
@@ -41391,12 +41391,12 @@
           "buildTransitive/net6.0/Microsoft.Extensions.Logging.Abstractions.targets": {}
         }
       },
-      "Microsoft.Extensions.Logging.Debug/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Logging.Debug/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Logging": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Logging": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Logging.Debug.dll": {
@@ -41412,11 +41412,11 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Options/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Options/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Primitives": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Primitives": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Options.dll": {
@@ -41432,7 +41432,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Primitives/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Primitives/8.0.0-preview.5.23280.8": {
         "type": "package",
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Primitives.dll": {
@@ -42539,10 +42539,10 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.DependencyInjection/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.DependencyInjection/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.DependencyInjection.dll": {
@@ -42558,7 +42558,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.0-preview.5.23280.8": {
         "type": "package",
         "compile": {
           "lib/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
@@ -42574,13 +42574,13 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Logging/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Logging/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Options": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Options": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Logging.dll": {
@@ -42596,7 +42596,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Logging.Abstractions/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Logging.Abstractions/8.0.0-preview.5.23280.8": {
         "type": "package",
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Logging.Abstractions.dll": {
@@ -42612,12 +42612,12 @@
           "buildTransitive/net6.0/Microsoft.Extensions.Logging.Abstractions.targets": {}
         }
       },
-      "Microsoft.Extensions.Logging.Debug/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Logging.Debug/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Logging": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Logging": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Logging.Abstractions": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Logging.Debug.dll": {
@@ -42633,11 +42633,11 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Options/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Options/8.0.0-preview.5.23280.8": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.4.23259.5",
-          "Microsoft.Extensions.Primitives": "8.0.0-preview.4.23259.5"
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0-preview.5.23280.8",
+          "Microsoft.Extensions.Primitives": "8.0.0-preview.5.23280.8"
         },
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Options.dll": {
@@ -42653,7 +42653,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Extensions.Primitives/8.0.0-preview.4.23259.5": {
+      "Microsoft.Extensions.Primitives/8.0.0-preview.5.23280.8": {
         "type": "package",
         "compile": {
           "lib/net7.0/Microsoft.Extensions.Primitives.dll": {
@@ -43794,10 +43794,10 @@
         "useSharedDesignerContext.txt"
       ]
     },
-    "Microsoft.Extensions.DependencyInjection/8.0.0-preview.4.23259.5": {
-      "sha512": "3YeSz5TsHs05IE2AXzvi+uaC/jWGNmgzJjiDvhvz3c94tkIiqVYSSgxnRVTzLTxO/f56EIdjPrLfuG+VysLJrg==",
+    "Microsoft.Extensions.DependencyInjection/8.0.0-preview.5.23280.8": {
+      "sha512": "pctZWWDGC6E4+1qABr9y55VvNMQQP48n7Hj/z5lPsxge1D75XBzxVzpVlelgatoJJlUGaC+ZYe3VGJR/2Ma6nw==",
       "type": "package",
-      "path": "microsoft.extensions.dependencyinjection/8.0.0-preview.4.23259.5",
+      "path": "microsoft.extensions.dependencyinjection/8.0.0-preview.5.23280.8",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -43820,15 +43820,15 @@
         "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.xml",
         "lib/netstandard2.1/Microsoft.Extensions.DependencyInjection.dll",
         "lib/netstandard2.1/Microsoft.Extensions.DependencyInjection.xml",
-        "microsoft.extensions.dependencyinjection.8.0.0-preview.4.23259.5.nupkg.sha512",
+        "microsoft.extensions.dependencyinjection.8.0.0-preview.5.23280.8.nupkg.sha512",
         "microsoft.extensions.dependencyinjection.nuspec",
         "useSharedDesignerContext.txt"
       ]
     },
-    "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.0-preview.4.23259.5": {
-      "sha512": "Wo5dS8V7wpdB/2xG2ZR7t5PBTCO+3ZS96+1/hpv4vh/ViaH8EIHvbGAVLgJUvVR7lLSdDUGpZTVI6gZIHwl7BA==",
+    "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.0-preview.5.23280.8": {
+      "sha512": "nQLLViHS4CkM/L8WatjVEsXG/CHzN+Q7IQgqMki9TJ5n9Gfed/6+OdgbPg1R4D0U1+vHWJqSVyyW1bspnjL9XA==",
       "type": "package",
-      "path": "microsoft.extensions.dependencyinjection.abstractions/8.0.0-preview.4.23259.5",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/8.0.0-preview.5.23280.8",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -43851,15 +43851,15 @@
         "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.xml",
         "lib/netstandard2.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
         "lib/netstandard2.1/Microsoft.Extensions.DependencyInjection.Abstractions.xml",
-        "microsoft.extensions.dependencyinjection.abstractions.8.0.0-preview.4.23259.5.nupkg.sha512",
+        "microsoft.extensions.dependencyinjection.abstractions.8.0.0-preview.5.23280.8.nupkg.sha512",
         "microsoft.extensions.dependencyinjection.abstractions.nuspec",
         "useSharedDesignerContext.txt"
       ]
     },
-    "Microsoft.Extensions.Logging/8.0.0-preview.4.23259.5": {
-      "sha512": "rMmxOIxbxgBlB7B8y9a5EzSfZWXQ5d4w8Vn27galalA+W67KFlWi7bEO3rKsRVkRvK6pq+xXh1IVxjZ3IzV4uA==",
+    "Microsoft.Extensions.Logging/8.0.0-preview.5.23280.8": {
+      "sha512": "iTeU+B3LZ2SLZp87po/16TFDmWLdqPr+xfZcJ1TPXBJlHy6pxVylHI+YKtDZEYBxz8trPOs/lK2+vjqSCwg4XQ==",
       "type": "package",
-      "path": "microsoft.extensions.logging/8.0.0-preview.4.23259.5",
+      "path": "microsoft.extensions.logging/8.0.0-preview.5.23280.8",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -43882,15 +43882,15 @@
         "lib/netstandard2.0/Microsoft.Extensions.Logging.xml",
         "lib/netstandard2.1/Microsoft.Extensions.Logging.dll",
         "lib/netstandard2.1/Microsoft.Extensions.Logging.xml",
-        "microsoft.extensions.logging.8.0.0-preview.4.23259.5.nupkg.sha512",
+        "microsoft.extensions.logging.8.0.0-preview.5.23280.8.nupkg.sha512",
         "microsoft.extensions.logging.nuspec",
         "useSharedDesignerContext.txt"
       ]
     },
-    "Microsoft.Extensions.Logging.Abstractions/8.0.0-preview.4.23259.5": {
-      "sha512": "poI3KnW6LUZ8l8HKYNeEXjr8yuhdlJB1XJkImO6DaA7C2KQR6r4aoTUk5RBnBZgGajSotb2pabF53etDm+E0HA==",
+    "Microsoft.Extensions.Logging.Abstractions/8.0.0-preview.5.23280.8": {
+      "sha512": "5+qyVaIhve6qPHw3xMFrLSzzOhXH7KhJ7npf1lTMBVcrXc2wylukEDU/AYjvJ9jjK99FeTQhk9qQc15nWPt8SQ==",
       "type": "package",
-      "path": "microsoft.extensions.logging.abstractions/8.0.0-preview.4.23259.5",
+      "path": "microsoft.extensions.logging.abstractions/8.0.0-preview.5.23280.8",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -43954,15 +43954,15 @@
         "lib/net8.0/Microsoft.Extensions.Logging.Abstractions.xml",
         "lib/netstandard2.0/Microsoft.Extensions.Logging.Abstractions.dll",
         "lib/netstandard2.0/Microsoft.Extensions.Logging.Abstractions.xml",
-        "microsoft.extensions.logging.abstractions.8.0.0-preview.4.23259.5.nupkg.sha512",
+        "microsoft.extensions.logging.abstractions.8.0.0-preview.5.23280.8.nupkg.sha512",
         "microsoft.extensions.logging.abstractions.nuspec",
         "useSharedDesignerContext.txt"
       ]
     },
-    "Microsoft.Extensions.Logging.Debug/8.0.0-preview.4.23259.5": {
-      "sha512": "CJx4RpkojKoxDE9PhKBROlPL/b1LOeHIdm80yrUpvqZ6EKmT7kCPBiWdS6agIAU9CYMnFokHL1hYDV+HAykycQ==",
+    "Microsoft.Extensions.Logging.Debug/8.0.0-preview.5.23280.8": {
+      "sha512": "nXdkC/rCqGfeOOBRFl6V8GdXrAOOaN9JJLGN2NH2NQpdCpGtsGlqM+CnUjn9vRARjXXld5frywmpauVj4RYiQA==",
       "type": "package",
-      "path": "microsoft.extensions.logging.debug/8.0.0-preview.4.23259.5",
+      "path": "microsoft.extensions.logging.debug/8.0.0-preview.5.23280.8",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -43983,15 +43983,15 @@
         "lib/net8.0/Microsoft.Extensions.Logging.Debug.xml",
         "lib/netstandard2.0/Microsoft.Extensions.Logging.Debug.dll",
         "lib/netstandard2.0/Microsoft.Extensions.Logging.Debug.xml",
-        "microsoft.extensions.logging.debug.8.0.0-preview.4.23259.5.nupkg.sha512",
+        "microsoft.extensions.logging.debug.8.0.0-preview.5.23280.8.nupkg.sha512",
         "microsoft.extensions.logging.debug.nuspec",
         "useSharedDesignerContext.txt"
       ]
     },
-    "Microsoft.Extensions.Options/8.0.0-preview.4.23259.5": {
-      "sha512": "dz5cv4DKpygZSdxYYBNLoYsCbUCC8AvJd1Ds5H6Q+D7o8kmKBJF5griuVgWvw5B62yDeoQ9ee+BT2F89Zlf40g==",
+    "Microsoft.Extensions.Options/8.0.0-preview.5.23280.8": {
+      "sha512": "9bLxnqIdn0G0fmpKPVam5A1VSRjK/16IjfTH73AR2XnlMbUCXqc4FblyJttnTb3dJXLsnD/Z1OIhH//clXWRjw==",
       "type": "package",
-      "path": "microsoft.extensions.options/8.0.0-preview.4.23259.5",
+      "path": "microsoft.extensions.options/8.0.0-preview.5.23280.8",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -44014,15 +44014,15 @@
         "lib/netstandard2.0/Microsoft.Extensions.Options.xml",
         "lib/netstandard2.1/Microsoft.Extensions.Options.dll",
         "lib/netstandard2.1/Microsoft.Extensions.Options.xml",
-        "microsoft.extensions.options.8.0.0-preview.4.23259.5.nupkg.sha512",
+        "microsoft.extensions.options.8.0.0-preview.5.23280.8.nupkg.sha512",
         "microsoft.extensions.options.nuspec",
         "useSharedDesignerContext.txt"
       ]
     },
-    "Microsoft.Extensions.Primitives/8.0.0-preview.4.23259.5": {
-      "sha512": "Qhbqh8pmYkyts4X/5G8Tc6XaP7Pk7Ui7SwbKcu4pbLeSlzxe6BEVXrOjMot8R7LQR6JNI11k5rqgEg+9S5RXoQ==",
+    "Microsoft.Extensions.Primitives/8.0.0-preview.5.23280.8": {
+      "sha512": "Na5J07qHjkmoOxnX/7q/JJn9z1R9VwX3ksluKGXUE7pMdpd1AVCM2R95f/0ko13PTyzn4Qn7DVOBeKxJ7NA2zg==",
       "type": "package",
-      "path": "microsoft.extensions.primitives/8.0.0-preview.4.23259.5",
+      "path": "microsoft.extensions.primitives/8.0.0-preview.5.23280.8",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -44043,7 +44043,7 @@
         "lib/net8.0/Microsoft.Extensions.Primitives.xml",
         "lib/netstandard2.0/Microsoft.Extensions.Primitives.dll",
         "lib/netstandard2.0/Microsoft.Extensions.Primitives.xml",
-        "microsoft.extensions.primitives.8.0.0-preview.4.23259.5.nupkg.sha512",
+        "microsoft.extensions.primitives.8.0.0-preview.5.23280.8.nupkg.sha512",
         "microsoft.extensions.primitives.nuspec",
         "useSharedDesignerContext.txt"
       ]
@@ -49698,10 +49698,10 @@
       "CommunityToolkit.Maui >= 5.2.0",
       "CommunityToolkit.Mvvm >= 8.2.0",
       "Microsoft.Extensions.Configuration >= 7.0.0",
-      "Microsoft.Extensions.DependencyInjection >= 8.0.0-preview.4.23259.5",
-      "Microsoft.Extensions.Logging >= 8.0.0-preview.4.23259.5",
-      "Microsoft.Extensions.Logging.Abstractions >= 8.0.0-preview.4.23259.5",
-      "Microsoft.Extensions.Logging.Debug >= 8.0.0-preview.4.23259.5",
+      "Microsoft.Extensions.DependencyInjection >= 8.0.0-preview.5.23280.8",
+      "Microsoft.Extensions.Logging >= 8.0.0-preview.5.23280.8",
+      "Microsoft.Extensions.Logging.Abstractions >= 8.0.0-preview.5.23280.8",
+      "Microsoft.Extensions.Logging.Debug >= 8.0.0-preview.5.23280.8",
       "Microsoft.Maui.Graphics >= 7.0.86",
       "OpenTK.GLControl >= 3.3.3",
       "Refractored.MvvmHelpers >= 1.6.2",
@@ -49726,10 +49726,10 @@
       "CommunityToolkit.Maui >= 5.2.0",
       "CommunityToolkit.Mvvm >= 8.2.0",
       "Microsoft.Extensions.Configuration >= 7.0.0",
-      "Microsoft.Extensions.DependencyInjection >= 8.0.0-preview.4.23259.5",
-      "Microsoft.Extensions.Logging >= 8.0.0-preview.4.23259.5",
-      "Microsoft.Extensions.Logging.Abstractions >= 8.0.0-preview.4.23259.5",
-      "Microsoft.Extensions.Logging.Debug >= 8.0.0-preview.4.23259.5",
+      "Microsoft.Extensions.DependencyInjection >= 8.0.0-preview.5.23280.8",
+      "Microsoft.Extensions.Logging >= 8.0.0-preview.5.23280.8",
+      "Microsoft.Extensions.Logging.Abstractions >= 8.0.0-preview.5.23280.8",
+      "Microsoft.Extensions.Logging.Debug >= 8.0.0-preview.5.23280.8",
       "Microsoft.Maui.Graphics >= 7.0.86",
       "OpenTK.GLControl >= 3.3.3",
       "Refractored.MvvmHelpers >= 1.6.2",
@@ -49743,10 +49743,10 @@
       "CommunityToolkit.Maui >= 5.2.0",
       "CommunityToolkit.Mvvm >= 8.2.0",
       "Microsoft.Extensions.Configuration >= 7.0.0",
-      "Microsoft.Extensions.DependencyInjection >= 8.0.0-preview.4.23259.5",
-      "Microsoft.Extensions.Logging >= 8.0.0-preview.4.23259.5",
-      "Microsoft.Extensions.Logging.Abstractions >= 8.0.0-preview.4.23259.5",
-      "Microsoft.Extensions.Logging.Debug >= 8.0.0-preview.4.23259.5",
+      "Microsoft.Extensions.DependencyInjection >= 8.0.0-preview.5.23280.8",
+      "Microsoft.Extensions.Logging >= 8.0.0-preview.5.23280.8",
+      "Microsoft.Extensions.Logging.Abstractions >= 8.0.0-preview.5.23280.8",
+      "Microsoft.Extensions.Logging.Debug >= 8.0.0-preview.5.23280.8",
       "Microsoft.Maui.Graphics >= 7.0.86",
       "OpenTK.GLControl >= 3.3.3",
       "Refractored.MvvmHelpers >= 1.6.2",
@@ -49760,10 +49760,10 @@
       "CommunityToolkit.Maui >= 5.2.0",
       "CommunityToolkit.Mvvm >= 8.2.0",
       "Microsoft.Extensions.Configuration >= 7.0.0",
-      "Microsoft.Extensions.DependencyInjection >= 8.0.0-preview.4.23259.5",
-      "Microsoft.Extensions.Logging >= 8.0.0-preview.4.23259.5",
-      "Microsoft.Extensions.Logging.Abstractions >= 8.0.0-preview.4.23259.5",
-      "Microsoft.Extensions.Logging.Debug >= 8.0.0-preview.4.23259.5",
+      "Microsoft.Extensions.DependencyInjection >= 8.0.0-preview.5.23280.8",
+      "Microsoft.Extensions.Logging >= 8.0.0-preview.5.23280.8",
+      "Microsoft.Extensions.Logging.Abstractions >= 8.0.0-preview.5.23280.8",
+      "Microsoft.Extensions.Logging.Debug >= 8.0.0-preview.5.23280.8",
       "Microsoft.Maui.Graphics >= 7.0.86",
       "Microsoft.Maui.Graphics.Win2D.WinUI.Desktop >= 7.0.86",
       "Microsoft.Windows.SDK.BuildTools >= 10.0.22621.755",
@@ -49848,19 +49848,19 @@
           },
           "Microsoft.Extensions.DependencyInjection": {
             "target": "Package",
-            "version": "[8.0.0-preview.4.23259.5, )"
+            "version": "[8.0.0-preview.5.23280.8, )"
           },
           "Microsoft.Extensions.Logging": {
             "target": "Package",
-            "version": "[8.0.0-preview.4.23259.5, )"
+            "version": "[8.0.0-preview.5.23280.8, )"
           },
           "Microsoft.Extensions.Logging.Abstractions": {
             "target": "Package",
-            "version": "[8.0.0-preview.4.23259.5, )"
+            "version": "[8.0.0-preview.5.23280.8, )"
           },
           "Microsoft.Extensions.Logging.Debug": {
             "target": "Package",
-            "version": "[8.0.0-preview.4.23259.5, )"
+            "version": "[8.0.0-preview.5.23280.8, )"
           },
           "Microsoft.Maui.Graphics": {
             "target": "Package",
@@ -49999,19 +49999,19 @@
           },
           "Microsoft.Extensions.DependencyInjection": {
             "target": "Package",
-            "version": "[8.0.0-preview.4.23259.5, )"
+            "version": "[8.0.0-preview.5.23280.8, )"
           },
           "Microsoft.Extensions.Logging": {
             "target": "Package",
-            "version": "[8.0.0-preview.4.23259.5, )"
+            "version": "[8.0.0-preview.5.23280.8, )"
           },
           "Microsoft.Extensions.Logging.Abstractions": {
             "target": "Package",
-            "version": "[8.0.0-preview.4.23259.5, )"
+            "version": "[8.0.0-preview.5.23280.8, )"
           },
           "Microsoft.Extensions.Logging.Debug": {
             "target": "Package",
-            "version": "[8.0.0-preview.4.23259.5, )"
+            "version": "[8.0.0-preview.5.23280.8, )"
           },
           "Microsoft.Maui.Graphics": {
             "target": "Package",
@@ -50095,19 +50095,19 @@
           },
           "Microsoft.Extensions.DependencyInjection": {
             "target": "Package",
-            "version": "[8.0.0-preview.4.23259.5, )"
+            "version": "[8.0.0-preview.5.23280.8, )"
           },
           "Microsoft.Extensions.Logging": {
             "target": "Package",
-            "version": "[8.0.0-preview.4.23259.5, )"
+            "version": "[8.0.0-preview.5.23280.8, )"
           },
           "Microsoft.Extensions.Logging.Abstractions": {
             "target": "Package",
-            "version": "[8.0.0-preview.4.23259.5, )"
+            "version": "[8.0.0-preview.5.23280.8, )"
           },
           "Microsoft.Extensions.Logging.Debug": {
             "target": "Package",
-            "version": "[8.0.0-preview.4.23259.5, )"
+            "version": "[8.0.0-preview.5.23280.8, )"
           },
           "Microsoft.Maui.Graphics": {
             "target": "Package",
@@ -50192,19 +50192,19 @@
           },
           "Microsoft.Extensions.DependencyInjection": {
             "target": "Package",
-            "version": "[8.0.0-preview.4.23259.5, )"
+            "version": "[8.0.0-preview.5.23280.8, )"
           },
           "Microsoft.Extensions.Logging": {
             "target": "Package",
-            "version": "[8.0.0-preview.4.23259.5, )"
+            "version": "[8.0.0-preview.5.23280.8, )"
           },
           "Microsoft.Extensions.Logging.Abstractions": {
             "target": "Package",
-            "version": "[8.0.0-preview.4.23259.5, )"
+            "version": "[8.0.0-preview.5.23280.8, )"
           },
           "Microsoft.Extensions.Logging.Debug": {
             "target": "Package",
-            "version": "[8.0.0-preview.4.23259.5, )"
+            "version": "[8.0.0-preview.5.23280.8, )"
           },
           "Microsoft.Maui.Graphics": {
             "target": "Package",
