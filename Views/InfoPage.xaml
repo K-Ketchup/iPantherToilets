@@ -7,7 +7,8 @@
              xmlns:toolkit="http://schemas.microsoft.com/dotnet/2022/maui/toolkit"
              x:DataType="viewmodel:ReviewViewModel"
              x:Class="iPantherToilets.InfoPage"
-             BackgroundColor="Black" >
+             BackgroundColor="White" 
+             Shell.NavBarIsVisible="True">
     
     <!--<ContentPage.ToolbarItems>
         <ToolbarItem Text="Add" Command="{Binding AddCommand}"/>
@@ -54,6 +55,10 @@
 
     </VerticalStackLayout>-->
 
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Add" Command="{Binding AddCommand}"/>
+    </ContentPage.ToolbarItems>
+    
     <ContentPage.BindingContext>
         <viewmodel:ReviewViewModel/>
     </ContentPage.BindingContext>
