@@ -11,6 +11,7 @@ public partial class InfoPage : ContentPage
 
     private async void ReturnToHomePageButton_Clicked(object sender, EventArgs e)
     {
-        await Navigation.PushModalAsync(new MainPage());
+        await Navigation.PopModalAsync();
     }
+
 }

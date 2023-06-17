@@ -34,6 +34,7 @@ namespace iPantherToilets.ViewModel
             var username = await App.Current.MainPage.DisplayPromptAsync("Username", "Username for review");
             var stars = await App.Current.MainPage.DisplayPromptAsync("Stars", "Stars for review", maxLength: 1, keyboard: Keyboard.Numeric);
             var text = await App.Current.MainPage.DisplayPromptAsync("Text", "Add text", maxLength: 50);
+            if(username == null || stars == null || text == null) { return; }
             await ReviewServices.AddReview(username, Double.Parse(stars), text);
             await Refresh();
         }
