@@ -4,11 +4,12 @@
              xmlns:model="clr-namespace:iPantherToilets.Models"
              xmlns:viewmodel="clr-namespace:iPantherToilets.ViewModel"
              xmlns:mvvm="clr-namespace:MvvmHelpers;assembly=MvvmHelpers"
+             xmlns:controls="clr-namespace:iPantherToilets.Controls"
              xmlns:toolkit="http://schemas.microsoft.com/dotnet/2022/maui/toolkit"
              x:DataType="viewmodel:ReviewViewModel"
              x:Class="iPantherToilets.InfoPage"
              x:Name="ReviewPage"
-             Shell.NavBarIsVisible="True">
+             Shell.NavBarIsVisible="True" >
     
     <!--<ContentPage.ToolbarItems>
         <ToolbarItem Text="Add" Command="{Binding AddCommand}"/>
@@ -67,22 +68,10 @@
 
     <ContentPage.ToolbarItems>
         <ToolbarItem Text="Add" Command="{Binding AddCommand}"/>
+        <ToolbarItem Text="Back" x:Name="ReturnToHomePageButton" Clicked="ReturnToHomePageButton_Clicked"/>
     </ContentPage.ToolbarItems>
 
     <VerticalStackLayout>
-        <HorizontalStackLayout>
-            <Button
-                x:Name="ReturnToHomePageButton"
-                Clicked="ReturnToHomePageButton_Clicked"
-                BorderColor="Yellow"
-                BorderWidth="1"
-                Text="Back"
-                HeightRequest="50"
-                WidthRequest="70"
-                VerticalOptions="EndAndExpand"
-                HorizontalOptions="CenterAndExpand"/>
-        </HorizontalStackLayout>
-        
         <ListView
         BackgroundColor="Transparent"
         CachingStrategy="RecycleElement"
@@ -92,13 +81,13 @@
         ItemsSource="{Binding Review}"
         RefreshCommand="{Binding RefreshCommand}"
         RefreshControlColor="Red"
-        SelectionMode="Single"
+        SelectionMode="None"
         SeparatorVisibility="None">
             <ListView.ItemTemplate>
                 <DataTemplate x:DataType="model:Review">
                     <ViewCell>
                         <ViewCell.ContextActions>
-                            <MenuItem
+                            <ToolbarItem
                                 Command="{Binding Source={x:Reference ReviewPage}, Path=BindingContext.RemoveCommand}"
                                 CommandParameter="{Binding .}"
                                 IsDestructive="True"
@@ -112,13 +101,15 @@
                                             FontSize="Large"
                                             Text="{Binding Username}"
                                             VerticalOptions="Center"/>
-                                        <Label
-                                            FontSize="Large"
-                                            Text="{Binding Stars}"
-                                            VerticalOptions="Center"/>
+                                        <controls:SimpleRatingControl 
+                                            Amount="5"
+                                            CurrentValue="{Binding Stars}"
+                                            AccentColor="Yellow"
+                                            StarSize="36" 
+                                            VerticalOptions="End" />
                                         <Label
                                             FontSize="Small"
-                                            Text="{Binding Id}"
+                                            Text="{Binding Text}"
                                             VerticalOptions="Center"/>
                                     </StackLayout>
                                 </StackLayout>
@@ -128,6 +119,5 @@
                 </DataTemplate>
             </ListView.ItemTemplate>
         </ListView>
-
     </VerticalStackLayout>
 </ContentPage>
