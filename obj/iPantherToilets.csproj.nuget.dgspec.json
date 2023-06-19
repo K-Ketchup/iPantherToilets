@@ -90,6 +90,10 @@
               "version": "[7.0.86, )",
               "autoReferenced": true
             },
+            "Microsoft.Toolkit.Mvvm": {
+              "target": "Package",
+              "version": "[7.1.2, )"
+            },
             "OpenTK.GLControl": {
               "target": "Package",
               "version": "[3.3.3, )"
@@ -241,6 +245,10 @@
               "version": "[7.0.86, )",
               "autoReferenced": true
             },
+            "Microsoft.Toolkit.Mvvm": {
+              "target": "Package",
+              "version": "[7.1.2, )"
+            },
             "OpenTK.GLControl": {
               "target": "Package",
               "version": "[3.3.3, )"
@@ -336,6 +344,10 @@
               "target": "Package",
               "version": "[7.0.86, )",
               "autoReferenced": true
+            },
+            "Microsoft.Toolkit.Mvvm": {
+              "target": "Package",
+              "version": "[7.1.2, )"
             },
             "OpenTK.GLControl": {
               "target": "Package",
@@ -438,6 +450,10 @@
               "target": "Package",
               "version": "[7.0.86, )",
               "autoReferenced": true
+            },
+            "Microsoft.Toolkit.Mvvm": {
+              "target": "Package",
+              "version": "[7.1.2, )"
             },
             "Microsoft.Windows.SDK.BuildTools": {
               "suppressParent": "All",

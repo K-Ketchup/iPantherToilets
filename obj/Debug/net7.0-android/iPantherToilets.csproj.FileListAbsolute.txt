@@ -988,3 +988,5 @@ C:\Users\yoboi\source\repos\iPantherToilets\iPantherToilets\obj\Debug\net7.0-and
 C:\Users\yoboi\source\repos\iPantherToilets\iPantherToilets\obj\Debug\net7.0-android\android\assets\System.Runtime.Extensions.dll
 C:\Users\yoboi\source\repos\iPantherToilets\iPantherToilets\obj\Debug\net7.0-android\android\assets\System.Runtime.Serialization.Formatters.dll
 C:\Users\yoboi\source\repos\iPantherToilets\iPantherToilets\obj\Debug\net7.0-android\android\assets\System.Xml.dll
+C:\Users\yoboi\source\repos\iPantherToilets\iPantherToilets\obj\Debug\net7.0-android\android\assets\Microsoft.Toolkit.Mvvm.dll
+C:\Users\yoboi\source\repos\iPantherToilets\iPantherToilets\obj\Debug\net7.0-android\android\assets\Microsoft.Toolkit.Mvvm.pdb

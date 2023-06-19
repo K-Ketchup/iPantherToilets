@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "0o5SkhtgpyYAEvSvyG/jB3i7xWMfogmkYw8sYOUhP+z5yXlxGBQqvIyfXm/VGmriwN0El4mFwbCG0Yxv6kZYrg==",
+  "dgSpecHash": "VnaExA47MjUWFBo4Qx49ByA26N9fyQ4rTbawFRXa1gG1Gdq0mW7U953HCEzjwYpUDMOVi7Xodl5e8GNCeXtYNQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\yoboi\\source\\repos\\iPantherToilets\\iPantherToilets\\iPantherToilets.csproj",
   "expectedPackageFiles": [
@@ -22,6 +22,7 @@
     "C:\\Users\\yoboi\\.nuget\\packages\\microsoft.maui.graphics.win2d.winui.desktop\\7.0.86\\microsoft.maui.graphics.win2d.winui.desktop.7.0.86.nupkg.sha512",
     "C:\\Users\\yoboi\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\yoboi\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\yoboi\\.nuget\\packages\\microsoft.toolkit.mvvm\\7.1.2\\microsoft.toolkit.mvvm.7.1.2.nupkg.sha512",
     "C:\\Users\\yoboi\\.nuget\\packages\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\yoboi\\.nuget\\packages\\microsoft.windows.sdk.buildtools\\10.0.22621.755\\microsoft.windows.sdk.buildtools.10.0.22621.755.nupkg.sha512",
     "C:\\Users\\yoboi\\.nuget\\packages\\microsoft.windowsappsdk\\1.2.221209.1\\microsoft.windowsappsdk.1.2.221209.1.nupkg.sha512",

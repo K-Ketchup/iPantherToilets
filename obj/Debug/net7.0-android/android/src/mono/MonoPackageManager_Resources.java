@@ -22,6 +22,7 @@ public class MonoPackageManager_Resources {
 		"Microsoft.Extensions.Options.dll",
 		"Microsoft.Extensions.Primitives.dll",
 		"Microsoft.Maui.Graphics.dll",
+		"Microsoft.Toolkit.Mvvm.dll",
 		"OpenTK.dll",
 		"OpenTK.GLControl.dll",
 		"MvvmHelpers.dll",

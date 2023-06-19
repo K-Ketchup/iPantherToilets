@@ -242,6 +242,19 @@
           }
         }
       },
+      "Microsoft.Toolkit.Mvvm/7.1.2": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
       "OpenTK/3.3.3": {
         "type": "package",
         "compile": {
@@ -2417,6 +2430,19 @@
           }
         }
       },
+      "Microsoft.Toolkit.Mvvm/7.1.2": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
       "OpenTK/3.3.3": {
         "type": "package",
         "compile": {
@@ -4578,6 +4604,19 @@
         },
         "runtime": {
           "lib/net7.0-android33.0/Microsoft.Maui.Graphics.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
+      "Microsoft.Toolkit.Mvvm/7.1.2": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
             "related": ".pdb;.xml"
           }
         }
@@ -6747,6 +6786,19 @@
           }
         }
       },
+      "Microsoft.Toolkit.Mvvm/7.1.2": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
       "OpenTK/3.3.3": {
         "type": "package",
         "compile": {
@@ -8908,6 +8960,19 @@
         },
         "runtime": {
           "lib/net7.0-android33.0/Microsoft.Maui.Graphics.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
+      "Microsoft.Toolkit.Mvvm/7.1.2": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
             "related": ".pdb;.xml"
           }
         }
@@ -11077,6 +11142,19 @@
           }
         }
       },
+      "Microsoft.Toolkit.Mvvm/7.1.2": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
       "OpenTK/3.3.3": {
         "type": "package",
         "compile": {
@@ -13242,6 +13320,19 @@
           }
         }
       },
+      "Microsoft.Toolkit.Mvvm/7.1.2": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
       "OpenTK/3.3.3": {
         "type": "package",
         "compile": {
@@ -15403,6 +15494,19 @@
         },
         "runtime": {
           "lib/net7.0-android33.0/Microsoft.Maui.Graphics.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
+      "Microsoft.Toolkit.Mvvm/7.1.2": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
             "related": ".pdb;.xml"
           }
         }
@@ -17577,6 +17681,19 @@
           "lib/netstandard1.0/_._": {}
         }
       },
+      "Microsoft.Toolkit.Mvvm/7.1.2": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
       "Microsoft.Win32.Primitives/4.3.0": {
         "type": "package",
         "dependencies": {
@@ -18341,6 +18458,19 @@
         },
         "runtime": {
           "lib/netstandard1.0/_._": {}
+        }
+      },
+      "Microsoft.Toolkit.Mvvm/7.1.2": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
         }
       },
       "Microsoft.Win32.Primitives/4.3.0": {
@@ -19428,6 +19558,19 @@
           "lib/netstandard1.0/_._": {}
         }
       },
+      "Microsoft.Toolkit.Mvvm/7.1.2": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
       "Microsoft.Win32.Primitives/4.3.0": {
         "type": "package",
         "dependencies": {
@@ -20511,6 +20654,19 @@
         },
         "runtime": {
           "lib/netstandard1.0/_._": {}
+        }
+      },
+      "Microsoft.Toolkit.Mvvm/7.1.2": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
         }
       },
       "Microsoft.Win32.Primitives/4.3.0": {
@@ -21598,6 +21754,19 @@
           "lib/netstandard1.0/_._": {}
         }
       },
+      "Microsoft.Toolkit.Mvvm/7.1.2": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
       "Microsoft.Win32.Primitives/4.3.0": {
         "type": "package",
         "dependencies": {
@@ -22681,6 +22850,19 @@
         },
         "runtime": {
           "lib/netstandard1.0/_._": {}
+        }
+      },
+      "Microsoft.Toolkit.Mvvm/7.1.2": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
         }
       },
       "Microsoft.Win32.Primitives/4.3.0": {
@@ -23768,6 +23950,19 @@
           "lib/netstandard1.0/_._": {}
         }
       },
+      "Microsoft.Toolkit.Mvvm/7.1.2": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
       "Microsoft.Win32.Primitives/4.3.0": {
         "type": "package",
         "dependencies": {
@@ -24853,6 +25048,19 @@
           "lib/netstandard1.0/_._": {}
         }
       },
+      "Microsoft.Toolkit.Mvvm/7.1.2": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
       "Microsoft.Win32.Primitives/4.3.0": {
         "type": "package",
         "dependencies": {
@@ -25894,6 +26102,19 @@
           "lib/netstandard1.0/_._": {}
         }
       },
+      "Microsoft.Toolkit.Mvvm/7.1.2": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
       "Microsoft.Win32.Primitives/4.3.0": {
         "type": "package",
         "dependencies": {
@@ -26752,6 +26973,19 @@
         },
         "runtime": {
           "lib/netstandard1.0/_._": {}
+        }
+      },
+      "Microsoft.Toolkit.Mvvm/7.1.2": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
         }
       },
       "Microsoft.Win32.Primitives/4.3.0": {
@@ -27846,6 +28080,19 @@
           "lib/netstandard1.0/_._": {}
         }
       },
+      "Microsoft.Toolkit.Mvvm/7.1.2": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
       "Microsoft.Win32.Primitives/4.3.0": {
         "type": "package",
         "dependencies": {
@@ -28936,6 +29183,19 @@
         },
         "runtime": {
           "lib/netstandard1.0/_._": {}
+        }
+      },
+      "Microsoft.Toolkit.Mvvm/7.1.2": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
         }
       },
       "Microsoft.Win32.Primitives/4.3.0": {
@@ -30030,6 +30290,19 @@
           "lib/netstandard1.0/_._": {}
         }
       },
+      "Microsoft.Toolkit.Mvvm/7.1.2": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
       "Microsoft.Win32.Primitives/4.3.0": {
         "type": "package",
         "dependencies": {
@@ -31122,6 +31395,19 @@
           "lib/netstandard1.0/_._": {}
         }
       },
+      "Microsoft.Toolkit.Mvvm/7.1.2": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
       "Microsoft.Win32.Primitives/4.3.0": {
         "type": "package",
         "dependencies": {
@@ -32209,6 +32495,19 @@
         },
         "runtime": {
           "lib/netstandard1.0/_._": {}
+        }
+      },
+      "Microsoft.Toolkit.Mvvm/7.1.2": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
         }
       },
       "Microsoft.Win32.Primitives/4.3.0": {
@@ -33301,6 +33600,19 @@
         },
         "runtime": {
           "lib/netstandard1.0/_._": {}
+        }
+      },
+      "Microsoft.Toolkit.Mvvm/7.1.2": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
         }
       },
       "Microsoft.Win32.Primitives/4.3.0": {
@@ -34401,6 +34713,19 @@
           "lib/netstandard1.0/_._": {}
         }
       },
+      "Microsoft.Toolkit.Mvvm/7.1.2": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
       "Microsoft.Win32.Primitives/4.3.0": {
         "type": "package",
         "dependencies": {
@@ -35408,6 +35733,19 @@
         },
         "runtime": {
           "lib/netstandard1.0/_._": {}
+        }
+      },
+      "Microsoft.Toolkit.Mvvm/7.1.2": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
         }
       },
       "Microsoft.Win32.Primitives/4.3.0": {
@@ -36631,6 +36969,19 @@
           "lib/netstandard1.0/_._": {}
         }
       },
+      "Microsoft.Toolkit.Mvvm/7.1.2": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
       "Microsoft.Win32.Primitives/4.3.0": {
         "type": "package",
         "dependencies": {
@@ -37850,6 +38201,19 @@
         },
         "runtime": {
           "lib/netstandard1.0/_._": {}
+        }
+      },
+      "Microsoft.Toolkit.Mvvm/7.1.2": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
         }
       },
       "Microsoft.Win32.Primitives/4.3.0": {
@@ -39073,6 +39437,19 @@
           "lib/netstandard1.0/_._": {}
         }
       },
+      "Microsoft.Toolkit.Mvvm/7.1.2": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
       "Microsoft.Win32.Primitives/4.3.0": {
         "type": "package",
         "dependencies": {
@@ -40294,6 +40671,19 @@
           "lib/netstandard1.0/_._": {}
         }
       },
+      "Microsoft.Toolkit.Mvvm/7.1.2": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
       "Microsoft.Win32.Primitives/4.3.0": {
         "type": "package",
         "dependencies": {
@@ -41510,6 +41900,19 @@
         },
         "runtime": {
           "lib/netstandard1.0/_._": {}
+        }
+      },
+      "Microsoft.Toolkit.Mvvm/7.1.2": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
         }
       },
       "Microsoft.Win32.Primitives/4.3.0": {
@@ -42734,6 +43137,19 @@
         },
         "runtime": {
           "lib/netstandard1.0/_._": {}
+        }
+      },
+      "Microsoft.Toolkit.Mvvm/7.1.2": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net5.0/Microsoft.Toolkit.Mvvm.dll": {
+            "related": ".pdb;.xml"
+          }
         }
       },
       "Microsoft.Win32.Primitives/4.3.0": {
@@ -44166,6 +44582,32 @@
         "microsoft.netcore.targets.1.1.0.nupkg.sha512",
         "microsoft.netcore.targets.nuspec",
         "runtime.json"
+      ]
+    },
+    "Microsoft.Toolkit.Mvvm/7.1.2": {
+      "sha512": "tUQn6ar9oP7kmYaZ6pWabxpQaqw95Bsf+GG7prEL0y5MV5F60z76lI/Ppps9zcTqwd7e5CrdZBcdfor9WuvohA==",
+      "type": "package",
+      "path": "microsoft.toolkit.mvvm/7.1.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "License.md",
+        "ThirdPartyNotices.txt",
+        "analyzers/dotnet/cs/Microsoft.Toolkit.Mvvm.SourceGenerators.dll",
+        "analyzers/dotnet/cs/Microsoft.Toolkit.Mvvm.SourceGenerators.pdb",
+        "analyzers/dotnet/cs/Microsoft.Toolkit.Mvvm.SourceGenerators.xml",
+        "lib/net5.0/Microsoft.Toolkit.Mvvm.dll",
+        "lib/net5.0/Microsoft.Toolkit.Mvvm.pdb",
+        "lib/net5.0/Microsoft.Toolkit.Mvvm.xml",
+        "lib/netstandard2.0/Microsoft.Toolkit.Mvvm.dll",
+        "lib/netstandard2.0/Microsoft.Toolkit.Mvvm.pdb",
+        "lib/netstandard2.0/Microsoft.Toolkit.Mvvm.xml",
+        "lib/netstandard2.1/Microsoft.Toolkit.Mvvm.dll",
+        "lib/netstandard2.1/Microsoft.Toolkit.Mvvm.pdb",
+        "lib/netstandard2.1/Microsoft.Toolkit.Mvvm.xml",
+        "microsoft.toolkit.mvvm.7.1.2.nupkg.sha512",
+        "microsoft.toolkit.mvvm.nuspec"
       ]
     },
     "Microsoft.Win32.Primitives/4.3.0": {
@@ -49703,6 +50145,7 @@
       "Microsoft.Extensions.Logging.Abstractions >= 8.0.0-preview.5.23280.8",
       "Microsoft.Extensions.Logging.Debug >= 8.0.0-preview.5.23280.8",
       "Microsoft.Maui.Graphics >= 7.0.86",
+      "Microsoft.Toolkit.Mvvm >= 7.1.2",
       "OpenTK.GLControl >= 3.3.3",
       "Refractored.MvvmHelpers >= 1.6.2",
       "System.IO.FileSystem >= 4.3.0",
@@ -49731,6 +50174,7 @@
       "Microsoft.Extensions.Logging.Abstractions >= 8.0.0-preview.5.23280.8",
       "Microsoft.Extensions.Logging.Debug >= 8.0.0-preview.5.23280.8",
       "Microsoft.Maui.Graphics >= 7.0.86",
+      "Microsoft.Toolkit.Mvvm >= 7.1.2",
       "OpenTK.GLControl >= 3.3.3",
       "Refractored.MvvmHelpers >= 1.6.2",
       "System.IO.FileSystem >= 4.3.0",
@@ -49748,6 +50192,7 @@
       "Microsoft.Extensions.Logging.Abstractions >= 8.0.0-preview.5.23280.8",
       "Microsoft.Extensions.Logging.Debug >= 8.0.0-preview.5.23280.8",
       "Microsoft.Maui.Graphics >= 7.0.86",
+      "Microsoft.Toolkit.Mvvm >= 7.1.2",
       "OpenTK.GLControl >= 3.3.3",
       "Refractored.MvvmHelpers >= 1.6.2",
       "System.IO.FileSystem >= 4.3.0",
@@ -49766,6 +50211,7 @@
       "Microsoft.Extensions.Logging.Debug >= 8.0.0-preview.5.23280.8",
       "Microsoft.Maui.Graphics >= 7.0.86",
       "Microsoft.Maui.Graphics.Win2D.WinUI.Desktop >= 7.0.86",
+      "Microsoft.Toolkit.Mvvm >= 7.1.2",
       "Microsoft.Windows.SDK.BuildTools >= 10.0.22621.755",
       "Microsoft.WindowsAppSDK >= 1.2.221209.1",
       "OpenTK.GLControl >= 3.3.3",
@@ -49866,6 +50312,10 @@
             "target": "Package",
             "version": "[7.0.86, )",
             "autoReferenced": true
+          },
+          "Microsoft.Toolkit.Mvvm": {
+            "target": "Package",
+            "version": "[7.1.2, )"
           },
           "OpenTK.GLControl": {
             "target": "Package",
@@ -50018,6 +50468,10 @@
             "version": "[7.0.86, )",
             "autoReferenced": true
           },
+          "Microsoft.Toolkit.Mvvm": {
+            "target": "Package",
+            "version": "[7.1.2, )"
+          },
           "OpenTK.GLControl": {
             "target": "Package",
             "version": "[3.3.3, )"
@@ -50113,6 +50567,10 @@
             "target": "Package",
             "version": "[7.0.86, )",
             "autoReferenced": true
+          },
+          "Microsoft.Toolkit.Mvvm": {
+            "target": "Package",
+            "version": "[7.1.2, )"
           },
           "OpenTK.GLControl": {
             "target": "Package",
@@ -50215,6 +50673,10 @@
             "target": "Package",
             "version": "[7.0.86, )",
             "autoReferenced": true
+          },
+          "Microsoft.Toolkit.Mvvm": {
+            "target": "Package",
+            "version": "[7.1.2, )"
           },
           "Microsoft.Windows.SDK.BuildTools": {
             "suppressParent": "All",

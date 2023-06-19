@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="iPantherToilets.LoginPage"
+             Title="LoginPage">
+
+    <Grid BackgroundColor="White">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="220"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="50"/>
+        </Grid.RowDefinitions>
+
+        <AbsoluteLayout>
+            <Path Stroke="#FFFF91" 
+                  Data="m246.78199,-61.55603l150.99999,0l0,0c83.39501,0 150.99999,95.5872 150.99999,213.5c0,117.91281 -67.60499,213.5 -150.99999,213.5l-150.99999,0l0,-427z" 
+                  Fill="#fff549"
+                  HorizontalOptions="FillAndExpand"
+                  VerticalOptions="CenterAndExpand">
+
+                <Path.RenderTransform>
+                    <TransformGroup>
+                        <RotateTransform  
+                            Angle="90"
+                            CenterX="400"
+                            CenterY="30"/>
+                        <TranslateTransform
+                            X="-72"
+                            Y="5"/>
+                    </TransformGroup>
+                    
+                </Path.RenderTransform>
+            </Path>
+        </AbsoluteLayout>
+
+        <StackLayout>
+            <Frame BackgroundColor="SkyBlue" HeightRequest="70" WidthRequest="70" CornerRadius="35" Padding="0" Margin="0,100,0,0" HorizontalOptions="Center">
+                <Image Source="schnoz2.png" Aspect="AspectFill" Margin="0"/>
+            </Frame>
+        </StackLayout>
+
+        <Grid RowSpacing="5" Grid.Row="1" Margin="20,20,20,0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="50"/>
+                <RowDefinition Height="50"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="40"/>
+                <RowDefinition Height="40"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Label 
+                Grid.Row="1" 
+                Text="Welcome!" 
+                HorizontalOptions="Center" 
+                FontSize="Title" 
+                FontAttributes="Bold" 
+                Padding="0" 
+                Margin="0"/>
+            <Label 
+                Grid.Row="2" 
+                Text="Sign in to continue" 
+                HorizontalOptions="Center" 
+                FontSize="Subtitle"/>
+            
+            <StackLayout 
+                Grid.Row="3" 
+                Orientation="Vertical" 
+                HorizontalOptions="CenterAndExpand">
+                <Frame
+                    BackgroundColor="Transparent"
+                    BorderColor="Yellow"
+                    Padding="0"
+                    HorizontalOptions="FillAndExpand"
+                    CornerRadius="30"
+                    WidthRequest="350">
+                    <StackLayout Orientation="Horizontal">
+                        <Frame
+                            BackgroundColor="Beige"
+                            HeightRequest="40"
+                            WidthRequest="40"
+                            CornerRadius="30"
+                            Padding="0"
+                            Margin="5">
+                            <Image 
+                                Source="schnoz2.png" 
+                                Aspect="AspectFill" 
+                                Margin="0"/>
+                        </Frame>
+                        <Entry 
+                            Text="{Binding UserName}"
+                            Placeholder="Username"
+                            TextColor="Black"
+                            FontAttributes="Bold"
+                            VerticalOptions="Center" 
+                            HorizontalOptions="FillAndExpand"
+                            Margin="0,0,20,0"/>
+                    </StackLayout>
+                </Frame>
+            </StackLayout>
+        </Grid>
+
+    </Grid>
+</ContentPage>
