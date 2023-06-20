@@ -105,8 +105,10 @@
 	  <None Remove="App.xaml~RF4d2f2ba.TMP" />
 	  <None Remove="Resources\Fonts\materialdesignicons-webfont.ttf" />
 	  <None Remove="Resources\Images\aaronthirst.png" />
+	  <None Remove="Resources\Images\locksecured.png" />
 	  <None Remove="Resources\Images\peninsula_map.png" />
 	  <None Remove="Resources\Images\schnoz2.png" />
+	  <None Remove="Resources\Images\usericon.png" />
 	</ItemGroup>
 
   <ItemGroup>

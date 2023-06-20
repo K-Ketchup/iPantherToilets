@@ -1,4 +1,5 @@
 ﻿using CommunityToolkit.Mvvm.ComponentModel;
+using Microsoft.Toolkit.Mvvm.Input;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -14,5 +15,11 @@ namespace iPantherToilets.ViewModel
 
         [ObservableProperty]
         private string password;
+
+        [ICommand]
+        public async void Login()
+        {
+
+        }
     }
 }
