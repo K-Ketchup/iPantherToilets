@@ -5,43 +5,36 @@
              x:Class="iPantherToilets.MainPage"
              Shell.NavBarIsVisible="False">
 
-    <ScrollView>
-        <VerticalStackLayout
-            Spacing="0"
-            Padding="0"
-            VerticalOptions="Start">
-
-            <Image
-                Source="peninsula_map.png"
-                SemanticProperties.Description="Base map for toilet locations."
-                HeightRequest="550"
-                HorizontalOptions="Fill" 
-                VerticalOptions="Fill"
-                Aspect="AspectFill"  
-                Margin="5" />
-
-            <!--<controls:SimpleRatingControl 
-                Amount="5"
-                CurrentValue="1"
-                AccentColor="Black"
-                StarSize="36" 
+    <Grid>
+        <ScrollView>
+            <VerticalStackLayout
                 VerticalOptions="End"
-             />-->
+                Padding="20">
 
-            <ImageButton
-                x:Name="GoToInfoPage"
-                Clicked="GoToInfoPageButton_Clicked"
-                BorderColor="Black"
-                BorderWidth="1"
-                Source="schnoz2.png"
-                HorizontalOptions="Center"
-                VerticalOptions="CenterAndExpand"
-                WidthRequest="60"
-                HeightRequest="60"
-                CornerRadius="25"
-                Aspect="AspectFit"
-                Margin="0"/>
-            
-        </VerticalStackLayout>
-    </ScrollView>
+                <!--<Image
+                    Source="peninsula_map.png"
+                    SemanticProperties.Description="Base map."
+                    HeightRequest="550"
+                    HorizontalOptions="Fill" 
+                    VerticalOptions="Fill"
+                    Aspect="AspectFill"  
+                    Margin="5" />-->
+
+                <ImageButton
+                    x:Name="GoToInfoPage"
+                    Clicked="GoToInfoPageButton_Clicked"
+                    BorderColor="Black"
+                    BorderWidth="1"
+                    Source="schnoz2.png"
+                    HorizontalOptions="Center"
+                    VerticalOptions="End"
+                    WidthRequest="60"
+                    HeightRequest="60"
+                    CornerRadius="25"
+                    Aspect="AspectFit"
+                    Margin="0"/>
+
+            </VerticalStackLayout>
+        </ScrollView>
+    </Grid>
 </ContentPage>

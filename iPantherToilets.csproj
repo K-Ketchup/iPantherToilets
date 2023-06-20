@@ -114,6 +114,10 @@
   <ItemGroup>
     <EmbeddedResource Remove="**/*.xaml" />
   </ItemGroup>
+
+  <ItemGroup>
+    <MauiImage Remove="Resources\Images\aaronthirst.png" />
+  </ItemGroup>
   
 	<ItemGroup>
 		<PackageReference Include="CommunityToolkit.Maui" Version="5.2.0" />

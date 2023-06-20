@@ -6,7 +6,8 @@ public partial class App : Application
 	{
 		InitializeComponent();
 
-        MainPage = new LoginPage();
+        //MainPage = new LoginPage();
+        MainPage = new MainPage();
         UserAppTheme = AppTheme.Light;
     }
 }
