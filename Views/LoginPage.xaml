@@ -159,7 +159,7 @@
                     CornerRadius="30"
                     WidthRequest="200"
                     Margin="0, 15, 0, 0" 
-                    Command="{Binding LoginCommand}"/>
+                    Clicked="Button_Clicked"/>
 
                 <StackLayout
                     Orientation="Horizontal"

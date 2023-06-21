@@ -11,5 +11,10 @@ public partial class MainPage : ContentPage
     {
         await Navigation.PushModalAsync(new NavigationPage (new InfoPage()));
     }
+
+    private async void ToolbarItem_Clicked(object sender, EventArgs e)
+    {
+        await Shell.Current.GoToAsync($"//{nameof(LoginPage)}");
+    }
 }
 

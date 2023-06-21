@@ -11,4 +11,7 @@
         ContentTemplate="{DataTemplate local:MainPage}"
         Route="LoginPage" />
 
+    <ShellItem Route="LoginPage">
+        <ShellContent ContentTemplate="{DataTemplate local:LoginPage}"/>
+    </ShellItem>
 </Shell>
