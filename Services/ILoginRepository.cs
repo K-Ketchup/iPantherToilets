@@ -8,6 +8,6 @@ namespace iPantherToilets.Services
 {
     public interface ILoginRepository
     {
-        Task<UserInfo> Login(string username, string password);
+        //Task<UserInfo> Login(string username, string password);
     }
 }
