@@ -12,14 +12,14 @@
                 VerticalOptions="End"
                 Padding="20">
 
-                <!--<Image
+                <Image
                     Source="peninsula_map.png"
                     SemanticProperties.Description="Base map."
                     HeightRequest="550"
                     HorizontalOptions="Fill" 
                     VerticalOptions="Fill"
                     Aspect="AspectFill"  
-                    Margin="5" />-->
+                    Margin="5" />
 
                 <ImageButton
                     x:Name="GoToInfoPage"
