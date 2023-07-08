@@ -8,10 +8,11 @@
 
     <ShellContent
         Title="LoginPage"
-        ContentTemplate="{DataTemplate local:MainPage}"
+        ContentTemplate="{DataTemplate local:LoginPage}"
         Route="LoginPage" />
 
-    <ShellItem Route="LoginPage">
-        <ShellContent ContentTemplate="{DataTemplate local:LoginPage}"/>
+    <ShellItem 
+        Route="MainPage">
+        <ShellContent ContentTemplate="{DataTemplate local:MainPage}"/>
     </ShellItem>
 </Shell>

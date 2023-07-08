@@ -91,7 +91,7 @@
                     Source="schnoz2.png"
                     HeightRequest="200"
                     HorizontalOptions="Center"/>
-                
+
             </StackLayout>
         </Grid>
 
