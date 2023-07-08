@@ -1,4 +1,6 @@
-﻿namespace iPantherToilets;
+﻿using iPantherToilets.Auth0Test;
+
+namespace iPantherToilets;
 
 public partial class App : Application
 {
