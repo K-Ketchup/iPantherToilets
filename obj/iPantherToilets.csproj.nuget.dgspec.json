@@ -62,7 +62,11 @@
             },
             "CommunityToolkit.Mvvm": {
               "target": "Package",
-              "version": "[8.2.0, )"
+              "version": "[8.2.1, )"
+            },
+            "IdentityModel.OidcClient": {
+              "target": "Package",
+              "version": "[5.2.1, )"
             },
             "Microsoft.Extensions.Configuration": {
               "target": "Package",
@@ -217,7 +221,11 @@
             },
             "CommunityToolkit.Mvvm": {
               "target": "Package",
-              "version": "[8.2.0, )"
+              "version": "[8.2.1, )"
+            },
+            "IdentityModel.OidcClient": {
+              "target": "Package",
+              "version": "[5.2.1, )"
             },
             "Microsoft.Extensions.Configuration": {
               "target": "Package",
@@ -317,7 +325,11 @@
             },
             "CommunityToolkit.Mvvm": {
               "target": "Package",
-              "version": "[8.2.0, )"
+              "version": "[8.2.1, )"
+            },
+            "IdentityModel.OidcClient": {
+              "target": "Package",
+              "version": "[5.2.1, )"
             },
             "Microsoft.Extensions.Configuration": {
               "target": "Package",
@@ -418,7 +430,11 @@
             },
             "CommunityToolkit.Mvvm": {
               "target": "Package",
-              "version": "[8.2.0, )"
+              "version": "[8.2.1, )"
+            },
+            "IdentityModel.OidcClient": {
+              "target": "Package",
+              "version": "[5.2.1, )"
             },
             "Microsoft.Extensions.Configuration": {
               "target": "Package",

@@ -1,13 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "VnaExA47MjUWFBo4Qx49ByA26N9fyQ4rTbawFRXa1gG1Gdq0mW7U953HCEzjwYpUDMOVi7Xodl5e8GNCeXtYNQ==",
+  "dgSpecHash": "bP9sDT6fC3YvccwbCG3GxdqPsY8ald5kngSKNuxubKHY4OT40zp+ruEy9a0beHYDyj2gkfdKde5wWx+388b9EQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\yoboi\\source\\repos\\iPantherToilets\\iPantherToilets\\iPantherToilets.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\yoboi\\.nuget\\packages\\communitytoolkit.maui\\5.2.0\\communitytoolkit.maui.5.2.0.nupkg.sha512",
     "C:\\Users\\yoboi\\.nuget\\packages\\communitytoolkit.maui.core\\5.2.0\\communitytoolkit.maui.core.5.2.0.nupkg.sha512",
-    "C:\\Users\\yoboi\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.0\\communitytoolkit.mvvm.8.2.0.nupkg.sha512",
+    "C:\\Users\\yoboi\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.1\\communitytoolkit.mvvm.8.2.1.nupkg.sha512",
     "C:\\Users\\yoboi\\.nuget\\packages\\googlegson\\2.9.1.1\\googlegson.2.9.1.1.nupkg.sha512",
+    "C:\\Users\\yoboi\\.nuget\\packages\\identitymodel\\5.2.0\\identitymodel.5.2.0.nupkg.sha512",
+    "C:\\Users\\yoboi\\.nuget\\packages\\identitymodel.oidcclient\\5.2.1\\identitymodel.oidcclient.5.2.1.nupkg.sha512",
     "C:\\Users\\yoboi\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
     "C:\\Users\\yoboi\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\yoboi\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0-preview.5.23280.8\\microsoft.extensions.dependencyinjection.8.0.0-preview.5.23280.8.nupkg.sha512",
