@@ -3,7 +3,7 @@ AreAnyAssembliesTrimmed=false
 				
 				AOTCompiler=
 				AOTOutputDirectory=obj\Debug\net7.0-ios\ios-arm64\nativelibraries/aot-output/
-				AppBundleManifestPath=bin\Debug\net7.0-ios\ios-arm64\device-builds\iphone10.1-16.5/iPantherToilets.app\Info.plist
+				AppBundleManifestPath=bin\Debug\net7.0-ios\ios-arm64\device-builds\iphone10.1-16.5.1/iPantherToilets.app\Info.plist
 				CacheDirectory=C:\Users\yoboi\source\repos\iPantherToilets\iPantherToilets\obj\Debug\net7.0-ios\ios-arm64\linker-cache
 				
 				Debug=true
@@ -212,7 +212,7 @@ MonoLibrary=C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Runtime.Mono.ios
 				PartialStaticRegistrarLibrary=C:\Program Files\dotnet\packs\Microsoft.iOS.Runtime.ios-arm64\16.4.7054/runtimes/ios-arm64/native/Microsoft.iOS.registrar.a
 				Platform=iOS
 				PlatformAssembly=Microsoft.iOS.dll
-				RelativeAppBundlePath=..\device-builds\iphone10.1-16.5\iPantherToilets.app\
+				RelativeAppBundlePath=..\device-builds\iphone10.1-16.5.1\iPantherToilets.app\
 				Registrar=
 				RequirePInvokeWrappers=
 				RuntimeConfigurationFile=runtimeconfig.bin

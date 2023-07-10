@@ -25,6 +25,13 @@
         </uap:DefaultTile>
         <uap:SplashScreen Image="schnoz2SplashScreen.png" />
       </uap:VisualElements>
+      <Extensions>
+        <uap:Extension Category="windows.protocol">
+          <uap:Protocol Name="myapp">
+            <uap:DisplayName>MauiAuth0App</uap:DisplayName>
+          </uap:Protocol>
+        </uap:Extension>
+      </Extensions>
     </Application>
   </Applications>
   <Capabilities>
